@@ -1,0 +1,1481 @@
+{
+  "location": {
+    "long": -91.831833,
+    "countryOrRegion": "United States",
+    "provinceOrState": "Arkansas",
+    "county": null,
+    "isoCode": "US-AR",
+    "lat": 35.20105
+  },
+  "updatedDateTime": "2020-04-05T17:46:10.1537948Z",
+  "stats": {
+    "totalConfirmedCases": 819,
+    "newlyConfirmedCases": 76,
+    "totalDeaths": 14,
+    "newDeaths": 0,
+    "totalRecoveredCases": 79,
+    "newlyRecoveredCases": 0,
+    "history": [
+      {
+        "date": "2020-01-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-30T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-31T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-03T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-04T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-05T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-06T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-07T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-08T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-09T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-10T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-11T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-12T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-13T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-14T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-15T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-16T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-17T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-18T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-19T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-20T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-21T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-03T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-04T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-05T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-06T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-07T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-08T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-09T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-10T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-11T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-12T00:00:00",
+        "confirmed": 6,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-13T00:00:00",
+        "confirmed": 9,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-14T00:00:00",
+        "confirmed": 12,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-15T00:00:00",
+        "confirmed": 7,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-16T00:00:00",
+        "confirmed": 12,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-17T00:00:00",
+        "confirmed": 22,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-18T00:00:00",
+        "confirmed": 37,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-19T00:00:00",
+        "confirmed": 62,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-20T00:00:00",
+        "confirmed": 100,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-21T00:00:00",
+        "confirmed": 122,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-22T00:00:00",
+        "confirmed": 165,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-23T00:00:00",
+        "confirmed": 197,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-24T00:00:00",
+        "confirmed": 233,
+        "deaths": 2,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-25T00:00:00",
+        "confirmed": 310,
+        "deaths": 2,
+        "recovered": 10
+      },
+      {
+        "date": "2020-03-26T00:00:00",
+        "confirmed": 350,
+        "deaths": 2,
+        "recovered": 10
+      },
+      {
+        "date": "2020-03-27T00:00:00",
+        "confirmed": 387,
+        "deaths": 3,
+        "recovered": 10
+      },
+      {
+        "date": "2020-03-28T00:00:00",
+        "confirmed": 409,
+        "deaths": 5,
+        "recovered": 10
+      },
+      {
+        "date": "2020-03-29T00:00:00",
+        "confirmed": 449,
+        "deaths": 6,
+        "recovered": 10
+      },
+      {
+        "date": "2020-03-30T00:00:00",
+        "confirmed": 508,
+        "deaths": 7,
+        "recovered": 28
+      },
+      {
+        "date": "2020-03-31T00:00:00",
+        "confirmed": 564,
+        "deaths": 8,
+        "recovered": 28
+      },
+      {
+        "date": "2020-04-01T00:00:00",
+        "confirmed": 624,
+        "deaths": 10,
+        "recovered": 42
+      },
+      {
+        "date": "2020-04-02T00:00:00",
+        "confirmed": 683,
+        "deaths": 12,
+        "recovered": 50
+      },
+      {
+        "date": "2020-04-03T00:00:00",
+        "confirmed": 738,
+        "deaths": 12,
+        "recovered": 60
+      },
+      {
+        "date": "2020-04-04T00:00:00",
+        "confirmed": 743,
+        "deaths": 14,
+        "recovered": 79
+      },
+      {
+        "date": "2020-04-05T00:00:00",
+        "confirmed": 819,
+        "deaths": 14,
+        "recovered": 79
+      }
+    ],
+    "breakdowns": [
+      {
+        "location": {
+          "long": -91.3789,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Arkansas",
+          "isoCode": "US-AR",
+          "lat": 34.1192
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.5464,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Ashley",
+          "isoCode": "US-AR",
+          "lat": 33.1212
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.2824,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Baxter",
+          "isoCode": "US-AR",
+          "lat": 36.2721
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.3713,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Benton",
+          "isoCode": "US-AR",
+          "lat": 36.4291
+        },
+        "totalConfirmedCases": 43,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.9068,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Boone",
+          "isoCode": "US-AR",
+          "lat": 36.4128
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.1714,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Bradley",
+          "isoCode": "US-AR",
+          "lat": 33.4472
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.2847,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Chicot",
+          "isoCode": "US-AR",
+          "lat": 33.3299
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.3376,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Clark",
+          "isoCode": "US-AR",
+          "lat": 34.0005
+        },
+        "totalConfirmedCases": 27,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.1689,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Cleburne",
+          "isoCode": "US-AR",
+          "lat": 35.5672
+        },
+        "totalConfirmedCases": 64,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.2401,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Cleveland",
+          "isoCode": "US-AR",
+          "lat": 33.7565
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.295,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Columbia",
+          "isoCode": "US-AR",
+          "lat": 33.3528
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.7733,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Conway",
+          "isoCode": "US-AR",
+          "lat": 35.1003
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.8011,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Craighead",
+          "isoCode": "US-AR",
+          "lat": 35.9116
+        },
+        "totalConfirmedCases": 18,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.1679,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Crawford",
+          "isoCode": "US-AR",
+          "lat": 35.6361
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.3241,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Crittenden",
+          "isoCode": "US-AR",
+          "lat": 35.2267
+        },
+        "totalConfirmedCases": 48,
+        "newlyConfirmedCases": 5,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.7545,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Cross",
+          "isoCode": "US-AR",
+          "lat": 35.402
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.3952,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Desha",
+          "isoCode": "US-AR",
+          "lat": 33.6279
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.9294,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Drew",
+          "isoCode": "US-AR",
+          "lat": 33.6264
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.3836,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Faulkner",
+          "isoCode": "US-AR",
+          "lat": 35.2289
+        },
+        "totalConfirmedCases": 45,
+        "newlyConfirmedCases": 5,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.0887,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Garland",
+          "isoCode": "US-AR",
+          "lat": 34.4269
+        },
+        "totalConfirmedCases": 40,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.4225,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Grant",
+          "isoCode": "US-AR",
+          "lat": 34.2996
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.5043,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Greene",
+          "isoCode": "US-AR",
+          "lat": 36.2092
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.5671,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Hempstead",
+          "isoCode": "US-AR",
+          "lat": 33.5113
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.961,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Hot Spring",
+          "isoCode": "US-AR",
+          "lat": 34.2602
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.8969,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Howard",
+          "isoCode": "US-AR",
+          "lat": 33.8183
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.5708,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Independence",
+          "isoCode": "US-AR",
+          "lat": 35.7672
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.1843,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Jefferson",
+          "isoCode": "US-AR",
+          "lat": 34.4429
+        },
+        "totalConfirmedCases": 59,
+        "newlyConfirmedCases": 6,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.4803,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Johnson",
+          "isoCode": "US-AR",
+          "lat": 35.4569
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.9462,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Lawrence",
+          "isoCode": "US-AR",
+          "lat": 36.0852
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.698,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Lincoln",
+          "isoCode": "US-AR",
+          "lat": 34.0789
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.9571,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Lonoke",
+          "isoCode": "US-AR",
+          "lat": 35.0129
+        },
+        "totalConfirmedCases": 16,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.2348,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Nevada",
+          "isoCode": "US-AR",
+          "lat": 33.6278
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.8991,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Perry",
+          "isoCode": "US-AR",
+          "lat": 35.0399
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.5057,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Pike",
+          "isoCode": "US-AR",
+          "lat": 34.0299
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.3559,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Poinsett",
+          "isoCode": "US-AR",
+          "lat": 35.4868
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.2374,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Polk",
+          "isoCode": "US-AR",
+          "lat": 34.581
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.2417,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Pope",
+          "isoCode": "US-AR",
+          "lat": 35.328
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.1959,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Pulaski",
+          "isoCode": "US-AR",
+          "lat": 34.7926
+        },
+        "totalConfirmedCases": 156,
+        "newlyConfirmedCases": 19,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 3,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.759,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Randolph",
+          "isoCode": "US-AR",
+          "lat": 36.3609
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.6406,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Saline",
+          "isoCode": "US-AR",
+          "lat": 34.5095
+        },
+        "totalConfirmedCases": 26,
+        "newlyConfirmedCases": 5,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.8078,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Searcy",
+          "isoCode": "US-AR",
+          "lat": 36.029
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.2793,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Sebastian",
+          "isoCode": "US-AR",
+          "lat": 35.3285
+        },
+        "totalConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.1177,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Sevier",
+          "isoCode": "US-AR",
+          "lat": 33.8335
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.2301,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Stone",
+          "isoCode": "US-AR",
+          "lat": 35.962
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.3598,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Union",
+          "isoCode": "US-AR",
+          "lat": 33.1079
+        },
+        "totalConfirmedCases": 12,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.4106,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Van Buren",
+          "isoCode": "US-AR",
+          "lat": 35.3671
+        },
+        "totalConfirmedCases": 21,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.2457,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Washington",
+          "isoCode": "US-AR",
+          "lat": 36.1642
+        },
+        "totalConfirmedCases": 28,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.6411,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "White",
+          "isoCode": "US-AR",
+          "lat": 35.277
+        },
+        "totalConfirmedCases": 25,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.2521,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Woodruff",
+          "isoCode": "US-AR",
+          "lat": 35.0058
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.1862,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Newton",
+          "isoCode": "US-AR",
+          "lat": 36.0102
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.8136,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "St. Francis",
+          "isoCode": "US-AR",
+          "lat": 35.0788
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 9,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.996,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Miller",
+          "isoCode": "US-AR",
+          "lat": 33.4361
+        },
+        "totalConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.0941,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Scott",
+          "isoCode": "US-AR",
+          "lat": 34.9004
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.3977,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Carroll",
+          "isoCode": "US-AR",
+          "lat": 36.4966
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.7674,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Lee",
+          "isoCode": "US-AR",
+          "lat": 34.7737
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.026,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Mississippi",
+          "isoCode": "US-AR",
+          "lat": 35.8592
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.1902,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Monroe",
+          "isoCode": "US-AR",
+          "lat": 34.8899
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.4358,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Lafayette",
+          "isoCode": "US-AR",
+          "lat": 33.3572
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.1009,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Ouachita",
+          "isoCode": "US-AR",
+          "lat": 33.7518
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.5068,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Prairie",
+          "isoCode": "US-AR",
+          "lat": 34.9777
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.5696,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Sharp",
+          "isoCode": "US-AR",
+          "lat": 36.2959
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.3902,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Yell",
+          "isoCode": "US-AR",
+          "lat": 35.053
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.8133,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arkansas",
+          "county": "Phillips",
+          "isoCode": "US-AR",
+          "lat": 34.4212
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      }
+    ]
+  }
+}

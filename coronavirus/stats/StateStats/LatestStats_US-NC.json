@@ -1,0 +1,1961 @@
+{
+  "location": {
+    "long": -79.0193,
+    "countryOrRegion": "United States",
+    "provinceOrState": "North Carolina",
+    "county": null,
+    "isoCode": "US-NC",
+    "lat": 35.759573
+  },
+  "updatedDateTime": "2020-04-05T17:46:09.9842648Z",
+  "stats": {
+    "totalConfirmedCases": 2555,
+    "newlyConfirmedCases": 43,
+    "totalDeaths": 35,
+    "newDeaths": 1,
+    "totalRecoveredCases": 61,
+    "newlyRecoveredCases": 0,
+    "history": [
+      {
+        "date": "2020-01-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-30T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-31T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-03T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-04T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-05T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-06T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-07T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-08T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-09T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-10T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-11T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-12T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-13T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-14T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-15T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-16T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-17T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-18T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-19T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-20T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-21T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-03T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-04T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-05T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-06T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-07T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-08T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-09T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-10T00:00:00",
+        "confirmed": 11,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-11T00:00:00",
+        "confirmed": 11,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-12T00:00:00",
+        "confirmed": 21,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-13T00:00:00",
+        "confirmed": 24,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-14T00:00:00",
+        "confirmed": 33,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-15T00:00:00",
+        "confirmed": 37,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-16T00:00:00",
+        "confirmed": 45,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-17T00:00:00",
+        "confirmed": 70,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-18T00:00:00",
+        "confirmed": 97,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-19T00:00:00",
+        "confirmed": 144,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-20T00:00:00",
+        "confirmed": 194,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-21T00:00:00",
+        "confirmed": 288,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-22T00:00:00",
+        "confirmed": 316,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-23T00:00:00",
+        "confirmed": 425,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-24T00:00:00",
+        "confirmed": 517,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-25T00:00:00",
+        "confirmed": 630,
+        "deaths": 2,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-26T00:00:00",
+        "confirmed": 760,
+        "deaths": 3,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-27T00:00:00",
+        "confirmed": 943,
+        "deaths": 5,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-28T00:00:00",
+        "confirmed": 1061,
+        "deaths": 5,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-29T00:00:00",
+        "confirmed": 1196,
+        "deaths": 6,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-30T00:00:00",
+        "confirmed": 1386,
+        "deaths": 8,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-31T00:00:00",
+        "confirmed": 1568,
+        "deaths": 12,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-01T00:00:00",
+        "confirmed": 1774,
+        "deaths": 16,
+        "recovered": 5
+      },
+      {
+        "date": "2020-04-02T00:00:00",
+        "confirmed": 2047,
+        "deaths": 21,
+        "recovered": 37
+      },
+      {
+        "date": "2020-04-03T00:00:00",
+        "confirmed": 2341,
+        "deaths": 29,
+        "recovered": 40
+      },
+      {
+        "date": "2020-04-04T00:00:00",
+        "confirmed": 2512,
+        "deaths": 34,
+        "recovered": 61
+      },
+      {
+        "date": "2020-04-05T00:00:00",
+        "confirmed": 2555,
+        "deaths": 35,
+        "recovered": 61
+      }
+    ],
+    "breakdowns": [
+      {
+        "location": {
+          "long": -79.2756,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Alamance",
+          "isoCode": "US-NC",
+          "lat": 36.0876
+        },
+        "totalConfirmedCases": 18,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.2962,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Alexander",
+          "isoCode": "US-NC",
+          "lat": 35.8162
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.1218,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Alleghany",
+          "isoCode": "US-NC",
+          "lat": 36.5035
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.7889,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Beaufort",
+          "isoCode": "US-NC",
+          "lat": 35.303
+        },
+        "totalConfirmedCases": 9,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.7663,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Bertie",
+          "isoCode": "US-NC",
+          "lat": 36.2015
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.029,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Brunswick",
+          "isoCode": "US-NC",
+          "lat": 34.283
+        },
+        "totalConfirmedCases": 24,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.3275,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Buncombe",
+          "isoCode": "US-NC",
+          "lat": 35.6142
+        },
+        "totalConfirmedCases": 31,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.4211,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Burke",
+          "isoCode": "US-NC",
+          "lat": 35.7181
+        },
+        "totalConfirmedCases": 18,
+        "newlyConfirmedCases": 5,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.6403,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Cabarrus",
+          "isoCode": "US-NC",
+          "lat": 35.4764
+        },
+        "totalConfirmedCases": 69,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.458,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Caldwell",
+          "isoCode": "US-NC",
+          "lat": 35.9436
+        },
+        "totalConfirmedCases": 11,
+        "newlyConfirmedCases": 6,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.607,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Camden",
+          "isoCode": "US-NC",
+          "lat": 34.2465
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.0572,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Carteret",
+          "isoCode": "US-NC",
+          "lat": 34.6973
+        },
+        "totalConfirmedCases": 16,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -79.2081,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Caswell",
+          "isoCode": "US-NC",
+          "lat": 36.5372
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.2201,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Catawba",
+          "isoCode": "US-NC",
+          "lat": 35.5853
+        },
+        "totalConfirmedCases": 22,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -79.1781,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Chatham",
+          "isoCode": "US-NC",
+          "lat": 35.7211
+        },
+        "totalConfirmedCases": 21,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.9265,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Cherokee",
+          "isoCode": "US-NC",
+          "lat": 35.1771
+        },
+        "totalConfirmedCases": 11,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.6008,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Chowan",
+          "isoCode": "US-NC",
+          "lat": 36.058
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.6168,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Cleveland",
+          "isoCode": "US-NC",
+          "lat": 35.5127
+        },
+        "totalConfirmedCases": 16,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.5934,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Columbus",
+          "isoCode": "US-NC",
+          "lat": 34.3189
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.4337,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Craven",
+          "isoCode": "US-NC",
+          "lat": 35.2155
+        },
+        "totalConfirmedCases": 14,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 4,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.677,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Cumberland",
+          "isoCode": "US-NC",
+          "lat": 35.2133
+        },
+        "totalConfirmedCases": 45,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -75.9527,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Currituck",
+          "isoCode": "US-NC",
+          "lat": 36.3513
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -75.6275,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Dare",
+          "isoCode": "US-NC",
+          "lat": 35.9475
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 2,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.0807,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Davidson",
+          "isoCode": "US-NC",
+          "lat": 35.8813
+        },
+        "totalConfirmedCases": 53,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.4045,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Davie",
+          "isoCode": "US-NC",
+          "lat": 35.9468
+        },
+        "totalConfirmedCases": 16,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.9247,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Duplin",
+          "isoCode": "US-NC",
+          "lat": 34.8271
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.8091,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Durham",
+          "isoCode": "US-NC",
+          "lat": 36.0418
+        },
+        "totalConfirmedCases": 182,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.58,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Edgecombe",
+          "isoCode": "US-NC",
+          "lat": 35.9896
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.236,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Forsyth",
+          "isoCode": "US-NC",
+          "lat": 36.2587
+        },
+        "totalConfirmedCases": 88,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 28,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.4522,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Franklin",
+          "isoCode": "US-NC",
+          "lat": 36.1011
+        },
+        "totalConfirmedCases": 14,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.0805,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Gaston",
+          "isoCode": "US-NC",
+          "lat": 35.2652
+        },
+        "totalConfirmedCases": 47,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.5689,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Granville",
+          "isoCode": "US-NC",
+          "lat": 36.4475
+        },
+        "totalConfirmedCases": 24,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.6768,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Greene",
+          "isoCode": "US-NC",
+          "lat": 35.4505
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -79.9937,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Guilford",
+          "isoCode": "US-NC",
+          "lat": 35.9905
+        },
+        "totalConfirmedCases": 94,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 5,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.649,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Halifax",
+          "isoCode": "US-NC",
+          "lat": 36.4452
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.814,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Harnett",
+          "isoCode": "US-NC",
+          "lat": 35.3999
+        },
+        "totalConfirmedCases": 24,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 1,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.4294,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Henderson",
+          "isoCode": "US-NC",
+          "lat": 35.4481
+        },
+        "totalConfirmedCases": 25,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.9105,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Hertford",
+          "isoCode": "US-NC",
+          "lat": 36.3567
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -79.2999,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Hoke",
+          "isoCode": "US-NC",
+          "lat": 34.9358
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.2261,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Hyde",
+          "isoCode": "US-NC",
+          "lat": 35.5472
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.8832,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Iredell",
+          "isoCode": "US-NC",
+          "lat": 35.6871
+        },
+        "totalConfirmedCases": 42,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.1954,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Jackson",
+          "isoCode": "US-NC",
+          "lat": 35.2958
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.1612,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Johnston",
+          "isoCode": "US-NC",
+          "lat": 35.4669
+        },
+        "totalConfirmedCases": 33,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 2,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -79.1772,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Lee",
+          "isoCode": "US-NC",
+          "lat": 35.4874
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.6333,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Lenoir",
+          "isoCode": "US-NC",
+          "lat": 35.2236
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.9999,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Lincoln",
+          "isoCode": "US-NC",
+          "lat": 35.4193
+        },
+        "totalConfirmedCases": 9,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.0014,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "McDowell",
+          "isoCode": "US-NC",
+          "lat": 35.6775
+        },
+        "totalConfirmedCases": 9,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.8915,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Mecklenburg",
+          "isoCode": "US-NC",
+          "lat": 35.0864
+        },
+        "totalConfirmedCases": 650,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 4,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.1582,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Mitchell",
+          "isoCode": "US-NC",
+          "lat": 36.0154
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.0046,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Montgomery",
+          "isoCode": "US-NC",
+          "lat": 35.2162
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -79.2845,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Moore",
+          "isoCode": "US-NC",
+          "lat": 35.2533
+        },
+        "totalConfirmedCases": 14,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.8572,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Nash",
+          "isoCode": "US-NC",
+          "lat": 36.0114
+        },
+        "totalConfirmedCases": 21,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.8834,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "New Hanover",
+          "isoCode": "US-NC",
+          "lat": 34.123
+        },
+        "totalConfirmedCases": 44,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 19,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.6448,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Northampton",
+          "isoCode": "US-NC",
+          "lat": 36.4965
+        },
+        "totalConfirmedCases": 40,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.3209,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Onslow",
+          "isoCode": "US-NC",
+          "lat": 34.7498
+        },
+        "totalConfirmedCases": 17,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -79.1718,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Orange",
+          "isoCode": "US-NC",
+          "lat": 36.0806
+        },
+        "totalConfirmedCases": 52,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.8447,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Pamlico",
+          "isoCode": "US-NC",
+          "lat": 35.1449
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.236,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Pasquotank",
+          "isoCode": "US-NC",
+          "lat": 36.2942
+        },
+        "totalConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.4673,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Perquimans",
+          "isoCode": "US-NC",
+          "lat": 36.1813
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.9811,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Person",
+          "isoCode": "US-NC",
+          "lat": 36.3905
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.4334,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Pitt",
+          "isoCode": "US-NC",
+          "lat": 35.3804
+        },
+        "totalConfirmedCases": 35,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.1985,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Polk",
+          "isoCode": "US-NC",
+          "lat": 35.266
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -79.5682,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Randolph",
+          "isoCode": "US-NC",
+          "lat": 35.8556
+        },
+        "totalConfirmedCases": 26,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -79.037,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Robeson",
+          "isoCode": "US-NC",
+          "lat": 34.4751
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.4275,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Rowan",
+          "isoCode": "US-NC",
+          "lat": 35.6821
+        },
+        "totalConfirmedCases": 46,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.836,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Rutherford",
+          "isoCode": "US-NC",
+          "lat": 35.3624
+        },
+        "totalConfirmedCases": 12,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.3947,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Sampson",
+          "isoCode": "US-NC",
+          "lat": 34.7859
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -79.445,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Scotland",
+          "isoCode": "US-NC",
+          "lat": 34.7691
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.4303,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Stanly",
+          "isoCode": "US-NC",
+          "lat": 35.2336
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.8671,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Surry",
+          "isoCode": "US-NC",
+          "lat": 36.5233
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.4474,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Swain",
+          "isoCode": "US-NC",
+          "lat": 35.4262
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -82.8201,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Transylvania",
+          "isoCode": "US-NC",
+          "lat": 35.1458
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.6453,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Union",
+          "isoCode": "US-NC",
+          "lat": 35.0699
+        },
+        "totalConfirmedCases": 67,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.4155,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Vance",
+          "isoCode": "US-NC",
+          "lat": 36.3259
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.5661,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Wake",
+          "isoCode": "US-NC",
+          "lat": 35.8032
+        },
+        "totalConfirmedCases": 302,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.617,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Washington",
+          "isoCode": "US-NC",
+          "lat": 35.8786
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.786,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Watauga",
+          "isoCode": "US-NC",
+          "lat": 36.2074
+        },
+        "totalConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.972,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Wayne",
+          "isoCode": "US-NC",
+          "lat": 35.3777
+        },
+        "totalConfirmedCases": 12,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.1142,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Wilkes",
+          "isoCode": "US-NC",
+          "lat": 36.2469
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.82,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Wilson",
+          "isoCode": "US-NC",
+          "lat": 35.6055
+        },
+        "totalConfirmedCases": 28,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 5,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.8351,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Yadkin",
+          "isoCode": "US-NC",
+          "lat": 36.2336
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.8181,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Clay",
+          "isoCode": "US-NC",
+          "lat": 35.0463
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.2067,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Martin",
+          "isoCode": "US-NC",
+          "lat": 35.9443
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.0746,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Anson",
+          "isoCode": "US-NC",
+          "lat": 34.9645
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -79.5433,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Rockingham",
+          "isoCode": "US-NC",
+          "lat": 36.4428
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -80.2122,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Stokes",
+          "isoCode": "US-NC",
+          "lat": 36.4113
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.3809,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Macon",
+          "isoCode": "US-NC",
+          "lat": 35.1798
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -76.7566,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Gates",
+          "isoCode": "US-NC",
+          "lat": 36.4072
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -83.0642,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Haywood",
+          "isoCode": "US-NC",
+          "lat": 35.524
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.7903,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Bladen",
+          "isoCode": "US-NC",
+          "lat": 34.7332
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -81.4898,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Ashe",
+          "isoCode": "US-NC",
+          "lat": 36.3944
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -78.0839,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Warren",
+          "isoCode": "US-NC",
+          "lat": 36.4396
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -77.9174,
+          "countryOrRegion": "United States",
+          "provinceOrState": "North Carolina",
+          "county": "Pender",
+          "isoCode": "US-NC",
+          "lat": 34.5166
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      }
+    ]
+  }
+}

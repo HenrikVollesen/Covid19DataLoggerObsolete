@@ -1,0 +1,2953 @@
+{
+  "location": {
+    "long": -99.901813,
+    "countryOrRegion": "United States",
+    "provinceOrState": "Texas",
+    "county": null,
+    "isoCode": "US-TX",
+    "lat": 31.968599
+  },
+  "updatedDateTime": "2020-04-05T17:46:10.0581981Z",
+  "stats": {
+    "totalConfirmedCases": 7409,
+    "newlyConfirmedCases": 34,
+    "totalDeaths": 126,
+    "newDeaths": 1,
+    "totalRecoveredCases": 640,
+    "newlyRecoveredCases": 0,
+    "history": [
+      {
+        "date": "2020-01-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-30T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-31T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-03T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-04T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-05T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-06T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-07T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-08T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-09T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-10T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-11T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-12T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-13T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-14T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-15T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-16T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-17T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-18T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-19T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-20T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-21T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-03T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-04T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-05T00:00:00",
+        "confirmed": 3,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-06T00:00:00",
+        "confirmed": 4,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-07T00:00:00",
+        "confirmed": 8,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-08T00:00:00",
+        "confirmed": 11,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-09T00:00:00",
+        "confirmed": 13,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-10T00:00:00",
+        "confirmed": 16,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-11T00:00:00",
+        "confirmed": 21,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-12T00:00:00",
+        "confirmed": 32,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-13T00:00:00",
+        "confirmed": 49,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-14T00:00:00",
+        "confirmed": 62,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-15T00:00:00",
+        "confirmed": 76,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-16T00:00:00",
+        "confirmed": 95,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-17T00:00:00",
+        "confirmed": 132,
+        "deaths": 2,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-18T00:00:00",
+        "confirmed": 223,
+        "deaths": 3,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-19T00:00:00",
+        "confirmed": 333,
+        "deaths": 5,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-20T00:00:00",
+        "confirmed": 478,
+        "deaths": 6,
+        "recovered": 4
+      },
+      {
+        "date": "2020-03-21T00:00:00",
+        "confirmed": 569,
+        "deaths": 5,
+        "recovered": 4
+      },
+      {
+        "date": "2020-03-22T00:00:00",
+        "confirmed": 681,
+        "deaths": 8,
+        "recovered": 11
+      },
+      {
+        "date": "2020-03-23T00:00:00",
+        "confirmed": 781,
+        "deaths": 9,
+        "recovered": 11
+      },
+      {
+        "date": "2020-03-24T00:00:00",
+        "confirmed": 1038,
+        "deaths": 13,
+        "recovered": 11
+      },
+      {
+        "date": "2020-03-25T00:00:00",
+        "confirmed": 1358,
+        "deaths": 17,
+        "recovered": 15
+      },
+      {
+        "date": "2020-03-26T00:00:00",
+        "confirmed": 1672,
+        "deaths": 24,
+        "recovered": 15
+      },
+      {
+        "date": "2020-03-27T00:00:00",
+        "confirmed": 2023,
+        "deaths": 26,
+        "recovered": 15
+      },
+      {
+        "date": "2020-03-28T00:00:00",
+        "confirmed": 2550,
+        "deaths": 34,
+        "recovered": 15
+      },
+      {
+        "date": "2020-03-29T00:00:00",
+        "confirmed": 2842,
+        "deaths": 37,
+        "recovered": 15
+      },
+      {
+        "date": "2020-03-30T00:00:00",
+        "confirmed": 3884,
+        "deaths": 51,
+        "recovered": 15
+      },
+      {
+        "date": "2020-03-31T00:00:00",
+        "confirmed": 4463,
+        "deaths": 61,
+        "recovered": 15
+      },
+      {
+        "date": "2020-04-01T00:00:00",
+        "confirmed": 5145,
+        "deaths": 71,
+        "recovered": 254
+      },
+      {
+        "date": "2020-04-02T00:00:00",
+        "confirmed": 5788,
+        "deaths": 89,
+        "recovered": 377
+      },
+      {
+        "date": "2020-04-03T00:00:00",
+        "confirmed": 6551,
+        "deaths": 107,
+        "recovered": 528
+      },
+      {
+        "date": "2020-04-04T00:00:00",
+        "confirmed": 7375,
+        "deaths": 125,
+        "recovered": 640
+      },
+      {
+        "date": "2020-04-05T00:00:00",
+        "confirmed": 7409,
+        "deaths": 126,
+        "recovered": 640
+      }
+    ],
+    "breakdowns": [
+      {
+        "location": {
+          "long": -102.5297,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Andrews",
+          "isoCode": "US-TX",
+          "lat": 32.2963
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.7665,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Angelina",
+          "isoCode": "US-TX",
+          "lat": 31.2345
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.006,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Aransas",
+          "isoCode": "US-TX",
+          "lat": 28.167
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -98.4957,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Atascosa",
+          "isoCode": "US-TX",
+          "lat": 28.9643
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.1051,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Austin",
+          "isoCode": "US-TX",
+          "lat": 29.7965
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.2448,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Bastrop",
+          "isoCode": "US-TX",
+          "lat": 30.2819
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.479,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Bell",
+          "isoCode": "US-TX",
+          "lat": 31.0525
+        },
+        "totalConfirmedCases": 58,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 12,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -98.3404,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Bexar",
+          "isoCode": "US-TX",
+          "lat": 29.5545
+        },
+        "totalConfirmedCases": 384,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 11,
+        "newDeaths": 0,
+        "totalRecoveredCases": 47,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -98.3609,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Blanco",
+          "isoCode": "US-TX",
+          "lat": 30.4298
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.6167,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Bowie",
+          "isoCode": "US-TX",
+          "lat": 33.5076
+        },
+        "totalConfirmedCases": 17,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.5673,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Brazoria",
+          "isoCode": "US-TX",
+          "lat": 29.0455
+        },
+        "totalConfirmedCases": 144,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 20,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.296,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Brazos",
+          "isoCode": "US-TX",
+          "lat": 30.5852
+        },
+        "totalConfirmedCases": 75,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 5,
+        "newDeaths": 0,
+        "totalRecoveredCases": 3,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -98.7895,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Brown",
+          "isoCode": "US-TX",
+          "lat": 31.8249
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 2,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.5311,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Burleson",
+          "isoCode": "US-TX",
+          "lat": 30.346
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -98.2751,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Burnet",
+          "isoCode": "US-TX",
+          "lat": 30.5677
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.6831,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Caldwell",
+          "isoCode": "US-TX",
+          "lat": 29.8785
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.4205,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Calhoun",
+          "isoCode": "US-TX",
+          "lat": 28.4463
+        },
+        "totalConfirmedCases": 11,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.4235,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Cameron",
+          "isoCode": "US-TX",
+          "lat": 26.0566
+        },
+        "totalConfirmedCases": 62,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.0591,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Cass",
+          "isoCode": "US-TX",
+          "lat": 33.1378
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -102.3111,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Castro",
+          "isoCode": "US-TX",
+          "lat": 34.5324
+        },
+        "totalConfirmedCases": 11,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.8549,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Chambers",
+          "isoCode": "US-TX",
+          "lat": 29.7269
+        },
+        "totalConfirmedCases": 11,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.152,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Cherokee",
+          "isoCode": "US-TX",
+          "lat": 31.8968
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.493,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Collin",
+          "isoCode": "US-TX",
+          "lat": 33.1795
+        },
+        "totalConfirmedCases": 268,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 91,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -98.1148,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Comal",
+          "isoCode": "US-TX",
+          "lat": 29.6997
+        },
+        "totalConfirmedCases": 21,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 5,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -98.6044,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Comanche",
+          "isoCode": "US-TX",
+          "lat": 31.9005
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.5114,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Coryell",
+          "isoCode": "US-TX",
+          "lat": 31.4187
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -102.3503,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Crane",
+          "isoCode": "US-TX",
+          "lat": 31.3919
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.797,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Dallas",
+          "isoCode": "US-TX",
+          "lat": 32.7767
+        },
+        "totalConfirmedCases": 1105,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 18,
+        "newDeaths": 0,
+        "totalRecoveredCases": 2,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -102.1256,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Dawson",
+          "isoCode": "US-TX",
+          "lat": 32.9307
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -102.4001,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Deaf Smith",
+          "isoCode": "US-TX",
+          "lat": 34.8232
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.3014,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Denton",
+          "isoCode": "US-TX",
+          "lat": 33.133
+        },
+        "totalConfirmedCases": 288,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 6,
+        "newDeaths": 0,
+        "totalRecoveredCases": 62,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.505,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "DeWitt",
+          "isoCode": "US-TX",
+          "lat": 28.9829
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -98.6721,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Eastland",
+          "isoCode": "US-TX",
+          "lat": 32.2136
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -102.3587,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Ector",
+          "isoCode": "US-TX",
+          "lat": 32.0105
+        },
+        "totalConfirmedCases": 22,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -106.1643,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "El Paso",
+          "isoCode": "US-TX",
+          "lat": 31.811
+        },
+        "totalConfirmedCases": 106,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 18,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.0053,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Ellis",
+          "isoCode": "US-TX",
+          "lat": 32.314
+        },
+        "totalConfirmedCases": 29,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -98.3391,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Erath",
+          "isoCode": "US-TX",
+          "lat": 32.0875
+        },
+        "totalConfirmedCases": 9,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.0763,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Falls",
+          "isoCode": "US-TX",
+          "lat": 31.3711
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.3407,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Fannin",
+          "isoCode": "US-TX",
+          "lat": 33.4275
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.6958,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Fayette",
+          "isoCode": "US-TX",
+          "lat": 30.064
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.8143,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Fort Bend",
+          "isoCode": "US-TX",
+          "lat": 29.5693
+        },
+        "totalConfirmedCases": 268,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 14,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.2253,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Franklin",
+          "isoCode": "US-TX",
+          "lat": 33.176
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -102.5657,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Gaines",
+          "isoCode": "US-TX",
+          "lat": 32.9419
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.9658,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Galveston",
+          "isoCode": "US-TX",
+          "lat": 29.4128
+        },
+        "totalConfirmedCases": 222,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 45,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.7286,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Grayson",
+          "isoCode": "US-TX",
+          "lat": 33.6233
+        },
+        "totalConfirmedCases": 12,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.8521,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Gregg",
+          "isoCode": "US-TX",
+          "lat": 32.4893
+        },
+        "totalConfirmedCases": 16,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.0895,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Grimes",
+          "isoCode": "US-TX",
+          "lat": 30.3874
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -98.1094,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Guadalupe",
+          "isoCode": "US-TX",
+          "lat": 29.4892
+        },
+        "totalConfirmedCases": 26,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -101.8968,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Hale",
+          "isoCode": "US-TX",
+          "lat": 34.2791
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.193,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Hardin",
+          "isoCode": "US-TX",
+          "lat": 30.1933
+        },
+        "totalConfirmedCases": 15,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.3103,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Harris",
+          "isoCode": "US-TX",
+          "lat": 29.7752
+        },
+        "totalConfirmedCases": 526,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.4468,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Harrison",
+          "isoCode": "US-TX",
+          "lat": 32.5886
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.8915,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Hays",
+          "isoCode": "US-TX",
+          "lat": 30.0392
+        },
+        "totalConfirmedCases": 50,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 13,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.0138,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Henderson",
+          "isoCode": "US-TX",
+          "lat": 32.3075
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -98.5787,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Hidalgo",
+          "isoCode": "US-TX",
+          "lat": 26.2585
+        },
+        "totalConfirmedCases": 86,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.3972,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Hill",
+          "isoCode": "US-TX",
+          "lat": 32.1419
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -102.1552,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Hockley",
+          "isoCode": "US-TX",
+          "lat": 33.4133
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.8357,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Hood",
+          "isoCode": "US-TX",
+          "lat": 32.4885
+        },
+        "totalConfirmedCases": 9,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.5606,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Hopkins",
+          "isoCode": "US-TX",
+          "lat": 33.3222
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.4564,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Houston",
+          "isoCode": "US-TX",
+          "lat": 31.3177
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.2471,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Hunt",
+          "isoCode": "US-TX",
+          "lat": 32.9324
+        },
+        "totalConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.5388,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Jackson",
+          "isoCode": "US-TX",
+          "lat": 28.8325
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.9001,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Jasper",
+          "isoCode": "US-TX",
+          "lat": 30.6578
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.3332,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Jefferson",
+          "isoCode": "US-TX",
+          "lat": 30.0522
+        },
+        "totalConfirmedCases": 58,
+        "newlyConfirmedCases": 29,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.1021,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Johnson",
+          "isoCode": "US-TX",
+          "lat": 32.4311
+        },
+        "totalConfirmedCases": 21,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.7134,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Karnes",
+          "isoCode": "US-TX",
+          "lat": 28.8858
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.159,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Kaufman",
+          "isoCode": "US-TX",
+          "lat": 32.7315
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -98.7289,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Kendall",
+          "isoCode": "US-TX",
+          "lat": 29.7844
+        },
+        "totalConfirmedCases": 9,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.861,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Kleberg",
+          "isoCode": "US-TX",
+          "lat": 27.5095
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.5462,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Lamar",
+          "isoCode": "US-TX",
+          "lat": 33.6689
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -102.4147,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Lamb",
+          "isoCode": "US-TX",
+          "lat": 34.012
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.9436,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Lavaca",
+          "isoCode": "US-TX",
+          "lat": 29.4428
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.9796,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Leon",
+          "isoCode": "US-TX",
+          "lat": 31.2579
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.7908,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Liberty",
+          "isoCode": "US-TX",
+          "lat": 30.047
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.6293,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Limestone",
+          "isoCode": "US-TX",
+          "lat": 31.307
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -98.4393,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Llano",
+          "isoCode": "US-TX",
+          "lat": 30.7807
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -101.9893,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Lubbock",
+          "isoCode": "US-TX",
+          "lat": 33.6901
+        },
+        "totalConfirmedCases": 151,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 4,
+        "newDeaths": 0,
+        "totalRecoveredCases": 20,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -101.8309,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Lynn",
+          "isoCode": "US-TX",
+          "lat": 32.9652
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -101.7928,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Martin",
+          "isoCode": "US-TX",
+          "lat": 32.1315
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.2172,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Matagorda",
+          "isoCode": "US-TX",
+          "lat": 28.8727
+        },
+        "totalConfirmedCases": 39,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -100.6237,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Maverick",
+          "isoCode": "US-TX",
+          "lat": 28.947
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.2127,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "McLennan",
+          "isoCode": "US-TX",
+          "lat": 31.3818
+        },
+        "totalConfirmedCases": 50,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 2,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -99.1621,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Medina",
+          "isoCode": "US-TX",
+          "lat": 29.3532
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -102.1137,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Midland",
+          "isoCode": "US-TX",
+          "lat": 32.0249
+        },
+        "totalConfirmedCases": 24,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.1289,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Milam",
+          "isoCode": "US-TX",
+          "lat": 30.874
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.7302,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Montague",
+          "isoCode": "US-TX",
+          "lat": 33.7835
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.6963,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Montgomery",
+          "isoCode": "US-TX",
+          "lat": 30.3883
+        },
+        "totalConfirmedCases": 142,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 20,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -102.008,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Moore",
+          "isoCode": "US-TX",
+          "lat": 36.0444
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.725,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Morris",
+          "isoCode": "US-TX",
+          "lat": 33.0306
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.8411,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Nacogdoches",
+          "isoCode": "US-TX",
+          "lat": 31.8126
+        },
+        "totalConfirmedCases": 16,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.7174,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Navarro",
+          "isoCode": "US-TX",
+          "lat": 32.0925
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.8455,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Nueces",
+          "isoCode": "US-TX",
+          "lat": 27.8094
+        },
+        "totalConfirmedCases": 50,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -102.4262,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Oldham",
+          "isoCode": "US-TX",
+          "lat": 35.2456
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.9967,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Orange",
+          "isoCode": "US-TX",
+          "lat": 30.1291
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.6999,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Parker",
+          "isoCode": "US-TX",
+          "lat": 32.7508
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.8275,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Polk",
+          "isoCode": "US-TX",
+          "lat": 30.9988
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -101.831,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Potter",
+          "isoCode": "US-TX",
+          "lat": 35.1989
+        },
+        "totalConfirmedCases": 40,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -101.8186,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Randall",
+          "isoCode": "US-TX",
+          "lat": 35.0539
+        },
+        "totalConfirmedCases": 34,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -103.5057,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Reeves",
+          "isoCode": "US-TX",
+          "lat": 31.4046
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.5956,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Robertson",
+          "isoCode": "US-TX",
+          "lat": 30.877
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.4377,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Rockwall",
+          "isoCode": "US-TX",
+          "lat": 32.917
+        },
+        "totalConfirmedCases": 11,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.9833,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Rusk",
+          "isoCode": "US-TX",
+          "lat": 31.8662
+        },
+        "totalConfirmedCases": 12,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.1307,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "San Jacinto",
+          "isoCode": "US-TX",
+          "lat": 30.5898
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.865,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "San Patricio",
+          "isoCode": "US-TX",
+          "lat": 28.0969
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.2457,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Shelby",
+          "isoCode": "US-TX",
+          "lat": 31.944
+        },
+        "totalConfirmedCases": 12,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.2217,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Smith",
+          "isoCode": "US-TX",
+          "lat": 32.2222
+        },
+        "totalConfirmedCases": 57,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -98.899,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Starr",
+          "isoCode": "US-TX",
+          "lat": 26.3859
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -101.7743,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Swisher",
+          "isoCode": "US-TX",
+          "lat": 34.5374
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.3517,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Tarrant",
+          "isoCode": "US-TX",
+          "lat": 32.7732
+        },
+        "totalConfirmedCases": 404,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 9,
+        "newDeaths": 0,
+        "totalRecoveredCases": 23,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -99.8666,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Taylor",
+          "isoCode": "US-TX",
+          "lat": 32.4522
+        },
+        "totalConfirmedCases": 27,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -102.2059,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Terry",
+          "isoCode": "US-TX",
+          "lat": 33.3377
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -100.4501,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Tom Green",
+          "isoCode": "US-TX",
+          "lat": 31.4426
+        },
+        "totalConfirmedCases": 20,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -98.0451,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Travis",
+          "isoCode": "US-TX",
+          "lat": 30.4088
+        },
+        "totalConfirmedCases": 460,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 6,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.1127,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Upshur",
+          "isoCode": "US-TX",
+          "lat": 32.586
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -99.4696,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Uvalde",
+          "isoCode": "US-TX",
+          "lat": 29.3214
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -100.88,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Val Verde",
+          "isoCode": "US-TX",
+          "lat": 29.3708
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 2,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.8639,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Van Zandt",
+          "isoCode": "US-TX",
+          "lat": 32.554
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.985,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Victoria",
+          "isoCode": "US-TX",
+          "lat": 28.8285
+        },
+        "totalConfirmedCases": 32,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 4,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.5545,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Walker",
+          "isoCode": "US-TX",
+          "lat": 30.705
+        },
+        "totalConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.0781,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Waller",
+          "isoCode": "US-TX",
+          "lat": 30.0996
+        },
+        "totalConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.3965,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Washington",
+          "isoCode": "US-TX",
+          "lat": 30.1586
+        },
+        "totalConfirmedCases": 17,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -99.6178,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Webb",
+          "isoCode": "US-TX",
+          "lat": 27.6555
+        },
+        "totalConfirmedCases": 98,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 6,
+        "newDeaths": 0,
+        "totalRecoveredCases": 6,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.4123,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Wharton",
+          "isoCode": "US-TX",
+          "lat": 29.1119
+        },
+        "totalConfirmedCases": 9,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -98.529,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Wichita",
+          "isoCode": "US-TX",
+          "lat": 33.9072
+        },
+        "totalConfirmedCases": 46,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.9088,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Willacy",
+          "isoCode": "US-TX",
+          "lat": 26.4634
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 1,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.7382,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Williamson",
+          "isoCode": "US-TX",
+          "lat": 30.513
+        },
+        "totalConfirmedCases": 76,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 26,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.9636,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Wilson",
+          "isoCode": "US-TX",
+          "lat": 29.2358
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.7709,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Wise",
+          "isoCode": "US-TX",
+          "lat": 33.2099
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -102.8271,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Yoakum",
+          "isoCode": "US-TX",
+          "lat": 33.1896
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -98.7436,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Young",
+          "isoCode": "US-TX",
+          "lat": 33.195
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.7537,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Newton",
+          "isoCode": "US-TX",
+          "lat": 30.8502
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.6001,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Tyler",
+          "isoCode": "US-TX",
+          "lat": 30.9213
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -99.2381,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Kerr",
+          "isoCode": "US-TX",
+          "lat": 30.0772
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -98.1784,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Live Oak",
+          "isoCode": "US-TX",
+          "lat": 28.4668
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.5563,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Colorado",
+          "isoCode": "US-TX",
+          "lat": 29.7055
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.5043,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Anderson",
+          "isoCode": "US-TX",
+          "lat": 32.0561
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -100.6592,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Donley",
+          "isoCode": "US-TX",
+          "lat": 34.8674
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -99.2459,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Gillespie",
+          "isoCode": "US-TX",
+          "lat": 30.2903
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.2699,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "San Augustine",
+          "isoCode": "US-TX",
+          "lat": 31.305
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.5761,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Wood",
+          "isoCode": "US-TX",
+          "lat": 32.9305
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.4561,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Panola",
+          "isoCode": "US-TX",
+          "lat": 32.2436
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.9668,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Camp",
+          "isoCode": "US-TX",
+          "lat": 32.9997
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -98.3676,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Clay",
+          "isoCode": "US-TX",
+          "lat": 33.9299
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.7658,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Gonzales",
+          "isoCode": "US-TX",
+          "lat": 29.2698
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.3916,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Goliad",
+          "isoCode": "US-TX",
+          "lat": 28.6708
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -100.965,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Gray",
+          "isoCode": "US-TX",
+          "lat": 35.5479
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -98.1346,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Jim Wells",
+          "isoCode": "US-TX",
+          "lat": 27.7132
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.9279,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Lee",
+          "isoCode": "US-TX",
+          "lat": 30.1833
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -98.4979,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Palo Pinto",
+          "isoCode": "US-TX",
+          "lat": 32.5509
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -100.3839,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Hemphill",
+          "isoCode": "US-TX",
+          "lat": 35.9097
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.1105,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Titus",
+          "isoCode": "US-TX",
+          "lat": 33.1658
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.3254,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Trinity",
+          "isoCode": "US-TX",
+          "lat": 30.9376
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.9727,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Lampasas",
+          "isoCode": "US-TX",
+          "lat": 31.0755
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -101.5317,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Hutchinson",
+          "isoCode": "US-TX",
+          "lat": 35.7026
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -99.2288,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Texas",
+          "county": "Mason",
+          "isoCode": "US-TX",
+          "lat": 30.748
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      }
+    ]
+  }
+}

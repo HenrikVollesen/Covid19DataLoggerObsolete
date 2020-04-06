@@ -1,0 +1,1881 @@
+{
+  "location": {
+    "long": -85.602364,
+    "countryOrRegion": "United States",
+    "provinceOrState": "Indiana",
+    "county": null,
+    "isoCode": "US-IN",
+    "lat": 40.551217
+  },
+  "updatedDateTime": "2020-04-05T17:46:09.8604007Z",
+  "stats": {
+    "totalConfirmedCases": 4030,
+    "newlyConfirmedCases": 57,
+    "totalDeaths": 117,
+    "newDeaths": 0,
+    "totalRecoveredCases": 0,
+    "newlyRecoveredCases": 0,
+    "history": [
+      {
+        "date": "2020-01-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-30T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-31T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-03T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-04T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-05T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-06T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-07T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-08T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-09T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-10T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-11T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-12T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-13T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-14T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-15T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-16T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-17T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-18T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-19T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-20T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-21T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-03T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-04T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-05T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-06T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-07T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-08T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-09T00:00:00",
+        "confirmed": 3,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-10T00:00:00",
+        "confirmed": 6,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-11T00:00:00",
+        "confirmed": 11,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-12T00:00:00",
+        "confirmed": 12,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-13T00:00:00",
+        "confirmed": 12,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-14T00:00:00",
+        "confirmed": 15,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-15T00:00:00",
+        "confirmed": 20,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-16T00:00:00",
+        "confirmed": 24,
+        "deaths": 2,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-17T00:00:00",
+        "confirmed": 30,
+        "deaths": 2,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-18T00:00:00",
+        "confirmed": 39,
+        "deaths": 2,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-19T00:00:00",
+        "confirmed": 61,
+        "deaths": 2,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-20T00:00:00",
+        "confirmed": 87,
+        "deaths": 3,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-21T00:00:00",
+        "confirmed": 128,
+        "deaths": 4,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-22T00:00:00",
+        "confirmed": 204,
+        "deaths": 7,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-23T00:00:00",
+        "confirmed": 271,
+        "deaths": 7,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-24T00:00:00",
+        "confirmed": 370,
+        "deaths": 12,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-25T00:00:00",
+        "confirmed": 479,
+        "deaths": 14,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-26T00:00:00",
+        "confirmed": 657,
+        "deaths": 17,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-27T00:00:00",
+        "confirmed": 981,
+        "deaths": 25,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-28T00:00:00",
+        "confirmed": 1232,
+        "deaths": 31,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-29T00:00:00",
+        "confirmed": 1514,
+        "deaths": 32,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-30T00:00:00",
+        "confirmed": 1787,
+        "deaths": 35,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-31T00:00:00",
+        "confirmed": 2159,
+        "deaths": 49,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-01T00:00:00",
+        "confirmed": 2569,
+        "deaths": 65,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-02T00:00:00",
+        "confirmed": 3039,
+        "deaths": 78,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-03T00:00:00",
+        "confirmed": 3437,
+        "deaths": 102,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-04T00:00:00",
+        "confirmed": 3973,
+        "deaths": 117,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-05T00:00:00",
+        "confirmed": 4030,
+        "deaths": 117,
+        "recovered": 0
+      }
+    ],
+    "breakdowns": [
+      {
+        "location": {
+          "long": -77.2865,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Adams",
+          "isoCode": "US-IN",
+          "lat": 39.8522
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.9245,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Allen",
+          "isoCode": "US-IN",
+          "lat": 41.1966
+        },
+        "totalConfirmedCases": 63,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.9183,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Bartholomew",
+          "isoCode": "US-IN",
+          "lat": 39.2094
+        },
+        "totalConfirmedCases": 45,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.4997,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Boone",
+          "isoCode": "US-IN",
+          "lat": 40.0106
+        },
+        "totalConfirmedCases": 50,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.1227,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Brown",
+          "isoCode": "US-IN",
+          "lat": 39.3085
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.5242,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Carroll",
+          "isoCode": "US-IN",
+          "lat": 40.5452
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.5,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Cass",
+          "isoCode": "US-IN",
+          "lat": 40.8644
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.7655,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Clark",
+          "isoCode": "US-IN",
+          "lat": 38.5395
+        },
+        "totalConfirmedCases": 61,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.1126,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Clay",
+          "isoCode": "US-IN",
+          "lat": 39.2769
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.6671,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Clinton",
+          "isoCode": "US-IN",
+          "lat": 40.1944
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.3444,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Crawford",
+          "isoCode": "US-IN",
+          "lat": 38.3714
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.9053,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Dearborn",
+          "isoCode": "US-IN",
+          "lat": 39.0676
+        },
+        "totalConfirmedCases": 30,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.6286,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Decatur",
+          "isoCode": "US-IN",
+          "lat": 39.4279
+        },
+        "totalConfirmedCases": 79,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 4,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.9012,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "DeKalb",
+          "isoCode": "US-IN",
+          "lat": 41.3147
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.5009,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Delaware",
+          "isoCode": "US-IN",
+          "lat": 40.3138
+        },
+        "totalConfirmedCases": 33,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.9404,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Dubois",
+          "isoCode": "US-IN",
+          "lat": 38.3934
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.0138,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Elkhart",
+          "isoCode": "US-IN",
+          "lat": 41.5336
+        },
+        "totalConfirmedCases": 35,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.141,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Fayette",
+          "isoCode": "US-IN",
+          "lat": 39.6582
+        },
+        "totalConfirmedCases": 14,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.9372,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Floyd",
+          "isoCode": "US-IN",
+          "lat": 38.3513
+        },
+        "totalConfirmedCases": 41,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.1577,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Fountain",
+          "isoCode": "US-IN",
+          "lat": 40.1089
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.0114,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Franklin",
+          "isoCode": "US-IN",
+          "lat": 39.4233
+        },
+        "totalConfirmedCases": 50,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 6,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.4125,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Fulton",
+          "isoCode": "US-IN",
+          "lat": 41.0192
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.377,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Gibson",
+          "isoCode": "US-IN",
+          "lat": 38.2786
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.5592,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Grant",
+          "isoCode": "US-IN",
+          "lat": 40.6126
+        },
+        "totalConfirmedCases": 18,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.0813,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Greene",
+          "isoCode": "US-IN",
+          "lat": 38.9879
+        },
+        "totalConfirmedCases": 9,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.1461,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Hamilton",
+          "isoCode": "US-IN",
+          "lat": 39.9658
+        },
+        "totalConfirmedCases": 265,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 4,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.6086,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Hancock",
+          "isoCode": "US-IN",
+          "lat": 39.8857
+        },
+        "totalConfirmedCases": 57,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.9736,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Harrison",
+          "isoCode": "US-IN",
+          "lat": 38.124
+        },
+        "totalConfirmedCases": 28,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.5401,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Hendricks",
+          "isoCode": "US-IN",
+          "lat": 39.8065
+        },
+        "totalConfirmedCases": 163,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 4,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.2512,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Henry",
+          "isoCode": "US-IN",
+          "lat": 39.9973
+        },
+        "totalConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.1345,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Howard",
+          "isoCode": "US-IN",
+          "lat": 40.4483
+        },
+        "totalConfirmedCases": 27,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.5618,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Huntington",
+          "isoCode": "US-IN",
+          "lat": 40.741
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.1716,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Jackson",
+          "isoCode": "US-IN",
+          "lat": 38.8247
+        },
+        "totalConfirmedCases": 28,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.1612,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Jasper",
+          "isoCode": "US-IN",
+          "lat": 40.9059
+        },
+        "totalConfirmedCases": 12,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.6106,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Jennings",
+          "isoCode": "US-IN",
+          "lat": 38.9853
+        },
+        "totalConfirmedCases": 35,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.1345,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Johnson",
+          "isoCode": "US-IN",
+          "lat": 39.4638
+        },
+        "totalConfirmedCases": 153,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 6,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.4604,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Knox",
+          "isoCode": "US-IN",
+          "lat": 38.7991
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.8923,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Kosciusko",
+          "isoCode": "US-IN",
+          "lat": 41.0743
+        },
+        "totalConfirmedCases": 12,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.4179,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "LaGrange",
+          "isoCode": "US-IN",
+          "lat": 41.648
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.4702,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Lake",
+          "isoCode": "US-IN",
+          "lat": 41.443
+        },
+        "totalConfirmedCases": 335,
+        "newlyConfirmedCases": 22,
+        "totalDeaths": 8,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.8181,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "LaPorte",
+          "isoCode": "US-IN",
+          "lat": 41.7563
+        },
+        "totalConfirmedCases": 17,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.5557,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Lawrence",
+          "isoCode": "US-IN",
+          "lat": 38.9172
+        },
+        "totalConfirmedCases": 36,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 5,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.8371,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Madison",
+          "isoCode": "US-IN",
+          "lat": 40.2743
+        },
+        "totalConfirmedCases": 72,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 9,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.1752,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Marion",
+          "isoCode": "US-IN",
+          "lat": 39.8362
+        },
+        "totalConfirmedCases": 1570,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 34,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.4236,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Marshall",
+          "isoCode": "US-IN",
+          "lat": 41.2159
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.9275,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Miami",
+          "isoCode": "US-IN",
+          "lat": 40.602
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.5257,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Monroe",
+          "isoCode": "US-IN",
+          "lat": 39.1637
+        },
+        "totalConfirmedCases": 45,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.8975,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Montgomery",
+          "isoCode": "US-IN",
+          "lat": 40.0428
+        },
+        "totalConfirmedCases": 14,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.3778,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Morgan",
+          "isoCode": "US-IN",
+          "lat": 39.5337
+        },
+        "totalConfirmedCases": 60,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.299,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Newton",
+          "isoCode": "US-IN",
+          "lat": 40.9523
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.355,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Noble",
+          "isoCode": "US-IN",
+          "lat": 41.4277
+        },
+        "totalConfirmedCases": 11,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.8546,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Ohio",
+          "isoCode": "US-IN",
+          "lat": 38.9531
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.6202,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Orange",
+          "isoCode": "US-IN",
+          "lat": 38.5462
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.7726,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Owen",
+          "isoCode": "US-IN",
+          "lat": 39.2861
+        },
+        "totalConfirmedCases": 13,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.9804,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Porter",
+          "isoCode": "US-IN",
+          "lat": 41.685
+        },
+        "totalConfirmedCases": 59,
+        "newlyConfirmedCases": 8,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.9151,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Posey",
+          "isoCode": "US-IN",
+          "lat": 38.2042
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.7995,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Putnam",
+          "isoCode": "US-IN",
+          "lat": 39.5211
+        },
+        "totalConfirmedCases": 14,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.2037,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Randolph",
+          "isoCode": "US-IN",
+          "lat": 40.1898
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.0931,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Ripley",
+          "isoCode": "US-IN",
+          "lat": 39.2373
+        },
+        "totalConfirmedCases": 51,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.4676,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Rush",
+          "isoCode": "US-IN",
+          "lat": 39.4981
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.7831,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Scott",
+          "isoCode": "US-IN",
+          "lat": 38.6854
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.7052,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Shelby",
+          "isoCode": "US-IN",
+          "lat": 39.6738
+        },
+        "totalConfirmedCases": 32,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.3377,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "St. Joseph",
+          "isoCode": "US-IN",
+          "lat": 41.6228
+        },
+        "totalConfirmedCases": 89,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.8922,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Starke",
+          "isoCode": "US-IN",
+          "lat": 41.1989
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.005,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Steuben",
+          "isoCode": "US-IN",
+          "lat": 41.6432
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.4074,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Sullivan",
+          "isoCode": "US-IN",
+          "lat": 39.0973
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.0783,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Switzerland",
+          "isoCode": "US-IN",
+          "lat": 38.7427
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.8527,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Tippecanoe",
+          "isoCode": "US-IN",
+          "lat": 40.5076
+        },
+        "totalConfirmedCases": 29,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.0868,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Tipton",
+          "isoCode": "US-IN",
+          "lat": 40.3795
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.512,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Vanderburgh",
+          "isoCode": "US-IN",
+          "lat": 38.024
+        },
+        "totalConfirmedCases": 35,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.2667,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Vigo",
+          "isoCode": "US-IN",
+          "lat": 39.4936
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.8393,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Wabash",
+          "isoCode": "US-IN",
+          "lat": 40.9807
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.527,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Warren",
+          "isoCode": "US-IN",
+          "lat": 40.1973
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.2847,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Warrick",
+          "isoCode": "US-IN",
+          "lat": 38.0469
+        },
+        "totalConfirmedCases": 12,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.2778,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Washington",
+          "isoCode": "US-IN",
+          "lat": 38.5549
+        },
+        "totalConfirmedCases": 16,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.8308,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Wayne",
+          "isoCode": "US-IN",
+          "lat": 39.9447
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.2225,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Wells",
+          "isoCode": "US-IN",
+          "lat": 40.6568
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.8678,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "White",
+          "isoCode": "US-IN",
+          "lat": 40.6622
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.3201,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Whitley",
+          "isoCode": "US-IN",
+          "lat": 41.2308
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.5387,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Jefferson",
+          "isoCode": "US-IN",
+          "lat": 38.7369
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.0857,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Benton",
+          "isoCode": "US-IN",
+          "lat": 40.4882
+        },
+        "totalConfirmedCases": 0,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.1468,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Jay",
+          "isoCode": "US-IN",
+          "lat": 40.492
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -85.3736,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Blackford",
+          "isoCode": "US-IN",
+          "lat": 40.4537
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.8257,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Spencer",
+          "isoCode": "US-IN",
+          "lat": 38.1692
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -87.2295,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Parke",
+          "isoCode": "US-IN",
+          "lat": 39.7665
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -84.926,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Union",
+          "isoCode": "US-IN",
+          "lat": 39.6349
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.8002,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Martin",
+          "isoCode": "US-IN",
+          "lat": 38.7221
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -86.9974,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Indiana",
+          "county": "Daviess",
+          "isoCode": "US-IN",
+          "lat": 38.6679
+        },
+        "totalConfirmedCases": 0,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      }
+    ]
+  }
+}

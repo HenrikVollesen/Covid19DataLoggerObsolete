@@ -1,0 +1,1737 @@
+{
+  "location": {
+    "long": -89.398528,
+    "countryOrRegion": "United States",
+    "provinceOrState": "Mississippi",
+    "county": null,
+    "isoCode": "US-MS",
+    "lat": 32.354668
+  },
+  "updatedDateTime": "2020-04-05T17:46:10.1687621Z",
+  "stats": {
+    "totalConfirmedCases": 1638,
+    "newlyConfirmedCases": 183,
+    "totalDeaths": 43,
+    "newDeaths": 8,
+    "totalRecoveredCases": 0,
+    "newlyRecoveredCases": 0,
+    "history": [
+      {
+        "date": "2020-01-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-30T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-31T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-03T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-04T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-05T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-06T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-07T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-08T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-09T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-10T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-11T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-12T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-13T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-14T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-15T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-16T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-17T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-18T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-19T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-20T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-21T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-03T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-04T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-05T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-06T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-07T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-08T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-09T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-10T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-11T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-12T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-13T00:00:00",
+        "confirmed": 8,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-14T00:00:00",
+        "confirmed": 8,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-15T00:00:00",
+        "confirmed": 10,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-16T00:00:00",
+        "confirmed": 16,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-17T00:00:00",
+        "confirmed": 25,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-18T00:00:00",
+        "confirmed": 34,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-19T00:00:00",
+        "confirmed": 52,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-20T00:00:00",
+        "confirmed": 80,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-21T00:00:00",
+        "confirmed": 140,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-22T00:00:00",
+        "confirmed": 207,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-23T00:00:00",
+        "confirmed": 249,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-24T00:00:00",
+        "confirmed": 320,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-25T00:00:00",
+        "confirmed": 377,
+        "deaths": 5,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-26T00:00:00",
+        "confirmed": 485,
+        "deaths": 6,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-27T00:00:00",
+        "confirmed": 579,
+        "deaths": 8,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-28T00:00:00",
+        "confirmed": 663,
+        "deaths": 13,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-29T00:00:00",
+        "confirmed": 759,
+        "deaths": 14,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-30T00:00:00",
+        "confirmed": 847,
+        "deaths": 16,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-31T00:00:00",
+        "confirmed": 937,
+        "deaths": 20,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-01T00:00:00",
+        "confirmed": 1073,
+        "deaths": 22,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-02T00:00:00",
+        "confirmed": 1177,
+        "deaths": 26,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-03T00:00:00",
+        "confirmed": 1358,
+        "deaths": 29,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-04T00:00:00",
+        "confirmed": 1455,
+        "deaths": 35,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-05T00:00:00",
+        "confirmed": 1638,
+        "deaths": 43,
+        "recovered": 0
+      }
+    ],
+    "breakdowns": [
+      {
+        "location": {
+          "long": -91.4152,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Adams",
+          "isoCode": "US-MS",
+          "lat": 31.496
+        },
+        "totalConfirmedCases": 19,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.4432,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Alcorn",
+          "isoCode": "US-MS",
+          "lat": 34.9224
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.8006,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Amite",
+          "isoCode": "US-MS",
+          "lat": 31.1611
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.465,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Attala",
+          "isoCode": "US-MS",
+          "lat": 33.122
+        },
+        "totalConfirmedCases": 15,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.2385,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Benton",
+          "isoCode": "US-MS",
+          "lat": 34.8239
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.7206,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Bolivar",
+          "isoCode": "US-MS",
+          "lat": 34.09
+        },
+        "totalConfirmedCases": 45,
+        "newlyConfirmedCases": 11,
+        "totalDeaths": 2,
+        "newDeaths": 1,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.3454,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Calhoun",
+          "isoCode": "US-MS",
+          "lat": 33.9909
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.9193,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Carroll",
+          "isoCode": "US-MS",
+          "lat": 33.5186
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.7479,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Chickasaw",
+          "isoCode": "US-MS",
+          "lat": 34.0053
+        },
+        "totalConfirmedCases": 15,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.3993,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Choctaw",
+          "isoCode": "US-MS",
+          "lat": 33.2931
+        },
+        "totalConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 1,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.1407,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Claiborne",
+          "isoCode": "US-MS",
+          "lat": 31.8804
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.8844,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Clarke",
+          "isoCode": "US-MS",
+          "lat": 32.0441
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.6571,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Clay",
+          "isoCode": "US-MS",
+          "lat": 33.6064
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.4542,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Coahoma",
+          "isoCode": "US-MS",
+          "lat": 34.3222
+        },
+        "totalConfirmedCases": 28,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.354,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Copiah",
+          "isoCode": "US-MS",
+          "lat": 31.9903
+        },
+        "totalConfirmedCases": 16,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.4987,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Covington",
+          "isoCode": "US-MS",
+          "lat": 31.5581
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.9921,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "DeSoto",
+          "isoCode": "US-MS",
+          "lat": 34.85
+        },
+        "totalConfirmedCases": 132,
+        "newlyConfirmedCases": 14,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.317,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Forrest",
+          "isoCode": "US-MS",
+          "lat": 31.3074
+        },
+        "totalConfirmedCases": 42,
+        "newlyConfirmedCases": 8,
+        "totalDeaths": 1,
+        "newDeaths": 1,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.8929,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Franklin",
+          "isoCode": "US-MS",
+          "lat": 31.4721
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.5959,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "George",
+          "isoCode": "US-MS",
+          "lat": 30.9312
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.813,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Grenada",
+          "isoCode": "US-MS",
+          "lat": 33.7816
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.3707,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Hancock",
+          "isoCode": "US-MS",
+          "lat": 30.3791
+        },
+        "totalConfirmedCases": 31,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.9512,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Harrison",
+          "isoCode": "US-MS",
+          "lat": 30.4422
+        },
+        "totalConfirmedCases": 73,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.2124,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Hinds",
+          "isoCode": "US-MS",
+          "lat": 32.3163
+        },
+        "totalConfirmedCases": 154,
+        "newlyConfirmedCases": 14,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.2355,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Holmes",
+          "isoCode": "US-MS",
+          "lat": 33.323
+        },
+        "totalConfirmedCases": 21,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.4967,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Humphreys",
+          "isoCode": "US-MS",
+          "lat": 33.0952
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.2507,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Itawamba",
+          "isoCode": "US-MS",
+          "lat": 34.2327
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.4846,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Jackson",
+          "isoCode": "US-MS",
+          "lat": 30.5905
+        },
+        "totalConfirmedCases": 86,
+        "newlyConfirmedCases": 7,
+        "totalDeaths": 3,
+        "newDeaths": 2,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.062,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Jefferson",
+          "isoCode": "US-MS",
+          "lat": 31.7123
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.0362,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Jones",
+          "isoCode": "US-MS",
+          "lat": 31.7879
+        },
+        "totalConfirmedCases": 11,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.4771,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Kemper",
+          "isoCode": "US-MS",
+          "lat": 32.8302
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.5025,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Lafayette",
+          "isoCode": "US-MS",
+          "lat": 34.5034
+        },
+        "totalConfirmedCases": 22,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.374,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Lamar",
+          "isoCode": "US-MS",
+          "lat": 31.3114
+        },
+        "totalConfirmedCases": 13,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.5264,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Lauderdale",
+          "isoCode": "US-MS",
+          "lat": 32.5104
+        },
+        "totalConfirmedCases": 65,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 2,
+        "newDeaths": 1,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.0023,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Lawrence",
+          "isoCode": "US-MS",
+          "lat": 31.6048
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.4529,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Leake",
+          "isoCode": "US-MS",
+          "lat": 32.6749
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.5768,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Lee",
+          "isoCode": "US-MS",
+          "lat": 34.2649
+        },
+        "totalConfirmedCases": 30,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.3444,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Leflore",
+          "isoCode": "US-MS",
+          "lat": 33.5173
+        },
+        "totalConfirmedCases": 22,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 3,
+        "newDeaths": 2,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.4432,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Lincoln",
+          "isoCode": "US-MS",
+          "lat": 31.5803
+        },
+        "totalConfirmedCases": 16,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.4454,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Lowndes",
+          "isoCode": "US-MS",
+          "lat": 33.6276
+        },
+        "totalConfirmedCases": 15,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.3142,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Madison",
+          "isoCode": "US-MS",
+          "lat": 32.5434
+        },
+        "totalConfirmedCases": 72,
+        "newlyConfirmedCases": 5,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.8829,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Marion",
+          "isoCode": "US-MS",
+          "lat": 31.2386
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.3065,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Marshall",
+          "isoCode": "US-MS",
+          "lat": 34.6492
+        },
+        "totalConfirmedCases": 20,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.4095,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Monroe",
+          "isoCode": "US-MS",
+          "lat": 33.746
+        },
+        "totalConfirmedCases": 13,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.5673,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Montgomery",
+          "isoCode": "US-MS",
+          "lat": 33.4404
+        },
+        "totalConfirmedCases": 11,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.2384,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Neshoba",
+          "isoCode": "US-MS",
+          "lat": 32.7889
+        },
+        "totalConfirmedCases": 9,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.1152,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Newton",
+          "isoCode": "US-MS",
+          "lat": 32.5711
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.5781,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Noxubee",
+          "isoCode": "US-MS",
+          "lat": 33.2367
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.0458,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Oktibbeha",
+          "isoCode": "US-MS",
+          "lat": 33.3451
+        },
+        "totalConfirmedCases": 27,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.9433,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Panola",
+          "isoCode": "US-MS",
+          "lat": 34.2409
+        },
+        "totalConfirmedCases": 17,
+        "newlyConfirmedCases": 7,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.6419,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Pearl River",
+          "isoCode": "US-MS",
+          "lat": 30.574
+        },
+        "totalConfirmedCases": 49,
+        "newlyConfirmedCases": 6,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.0272,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Perry",
+          "isoCode": "US-MS",
+          "lat": 31.2036
+        },
+        "totalConfirmedCases": 14,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.4719,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Pike",
+          "isoCode": "US-MS",
+          "lat": 31.0072
+        },
+        "totalConfirmedCases": 26,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.8388,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Pontotoc",
+          "isoCode": "US-MS",
+          "lat": 34.3611
+        },
+        "totalConfirmedCases": 12,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.662,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Prentiss",
+          "isoCode": "US-MS",
+          "lat": 34.708
+        },
+        "totalConfirmedCases": 9,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.2845,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Quitman",
+          "isoCode": "US-MS",
+          "lat": 34.2006
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.9896,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Rankin",
+          "isoCode": "US-MS",
+          "lat": 32.2778
+        },
+        "totalConfirmedCases": 72,
+        "newlyConfirmedCases": 6,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.4889,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Scott",
+          "isoCode": "US-MS",
+          "lat": 32.4491
+        },
+        "totalConfirmedCases": 23,
+        "newlyConfirmedCases": 6,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.8284,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Sharkey",
+          "isoCode": "US-MS",
+          "lat": 32.9719
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.734,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Simpson",
+          "isoCode": "US-MS",
+          "lat": 31.873
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.3818,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Smith",
+          "isoCode": "US-MS",
+          "lat": 32.0144
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.5304,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Sunflower",
+          "isoCode": "US-MS",
+          "lat": 33.8101
+        },
+        "totalConfirmedCases": 19,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.0552,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Tallahatchie",
+          "isoCode": "US-MS",
+          "lat": 34.0075
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.9757,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Tate",
+          "isoCode": "US-MS",
+          "lat": 34.6902
+        },
+        "totalConfirmedCases": 15,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.8431,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Tippah",
+          "isoCode": "US-MS",
+          "lat": 34.638
+        },
+        "totalConfirmedCases": 35,
+        "newlyConfirmedCases": 4,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.3796,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Tunica",
+          "isoCode": "US-MS",
+          "lat": 34.7032
+        },
+        "totalConfirmedCases": 17,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.0201,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Union",
+          "isoCode": "US-MS",
+          "lat": 34.4909
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.1444,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Walthall",
+          "isoCode": "US-MS",
+          "lat": 31.1173
+        },
+        "totalConfirmedCases": 12,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.8868,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Warren",
+          "isoCode": "US-MS",
+          "lat": 32.3173
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 2,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.0514,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Washington",
+          "isoCode": "US-MS",
+          "lat": 33.385
+        },
+        "totalConfirmedCases": 36,
+        "newlyConfirmedCases": 5,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.1278,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Webster",
+          "isoCode": "US-MS",
+          "lat": 33.539
+        },
+        "totalConfirmedCases": 11,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.0654,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Wilkinson",
+          "isoCode": "US-MS",
+          "lat": 31.087
+        },
+        "totalConfirmedCases": 30,
+        "newlyConfirmedCases": 5,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.0553,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Winston",
+          "isoCode": "US-MS",
+          "lat": 33.1224
+        },
+        "totalConfirmedCases": 12,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.6845,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Yalobusha",
+          "isoCode": "US-MS",
+          "lat": 33.9765
+        },
+        "totalConfirmedCases": 9,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.5445,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Yazoo",
+          "isoCode": "US-MS",
+          "lat": 32.672
+        },
+        "totalConfirmedCases": 31,
+        "newlyConfirmedCases": 12,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.1863,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Tishomingo",
+          "isoCode": "US-MS",
+          "lat": 34.4866
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.2626,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Jasper",
+          "isoCode": "US-MS",
+          "lat": 32.0722
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -88.6353,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Wayne",
+          "isoCode": "US-MS",
+          "lat": 31.6773
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -89.1385,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Mississippi",
+          "county": "Stone",
+          "isoCode": "US-MS",
+          "lat": 30.8557
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 1,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      }
+    ]
+  }
+}

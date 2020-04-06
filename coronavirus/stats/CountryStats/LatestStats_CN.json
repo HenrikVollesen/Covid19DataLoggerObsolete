@@ -1,0 +1,1001 @@
+{
+  "location": {
+    "long": 104.195397,
+    "countryOrRegion": "China",
+    "provinceOrState": null,
+    "county": null,
+    "isoCode": "CN",
+    "lat": 35.86166
+  },
+  "updatedDateTime": "2020-04-05T16:54:41.2755575Z",
+  "stats": {
+    "totalConfirmedCases": 82522,
+    "newlyConfirmedCases": 28,
+    "totalDeaths": 3316,
+    "newDeaths": 0,
+    "totalRecoveredCases": 76485,
+    "newlyRecoveredCases": 33,
+    "history": [
+      {
+        "date": "2020-01-22T00:00:00",
+        "confirmed": 548,
+        "deaths": 17,
+        "recovered": 28
+      },
+      {
+        "date": "2020-01-23T00:00:00",
+        "confirmed": 643,
+        "deaths": 18,
+        "recovered": 30
+      },
+      {
+        "date": "2020-01-24T00:00:00",
+        "confirmed": 920,
+        "deaths": 26,
+        "recovered": 36
+      },
+      {
+        "date": "2020-01-25T00:00:00",
+        "confirmed": 1406,
+        "deaths": 42,
+        "recovered": 39
+      },
+      {
+        "date": "2020-01-26T00:00:00",
+        "confirmed": 2075,
+        "deaths": 56,
+        "recovered": 49
+      },
+      {
+        "date": "2020-01-27T00:00:00",
+        "confirmed": 2877,
+        "deaths": 82,
+        "recovered": 58
+      },
+      {
+        "date": "2020-01-28T00:00:00",
+        "confirmed": 5509,
+        "deaths": 131,
+        "recovered": 101
+      },
+      {
+        "date": "2020-01-29T00:00:00",
+        "confirmed": 6087,
+        "deaths": 133,
+        "recovered": 120
+      },
+      {
+        "date": "2020-01-30T00:00:00",
+        "confirmed": 8141,
+        "deaths": 171,
+        "recovered": 135
+      },
+      {
+        "date": "2020-01-31T00:00:00",
+        "confirmed": 9802,
+        "deaths": 213,
+        "recovered": 214
+      },
+      {
+        "date": "2020-02-01T00:00:00",
+        "confirmed": 11891,
+        "deaths": 259,
+        "recovered": 275
+      },
+      {
+        "date": "2020-02-02T00:00:00",
+        "confirmed": 16630,
+        "deaths": 361,
+        "recovered": 462
+      },
+      {
+        "date": "2020-02-03T00:00:00",
+        "confirmed": 19716,
+        "deaths": 425,
+        "recovered": 614
+      },
+      {
+        "date": "2020-02-04T00:00:00",
+        "confirmed": 23707,
+        "deaths": 491,
+        "recovered": 843
+      },
+      {
+        "date": "2020-02-05T00:00:00",
+        "confirmed": 27440,
+        "deaths": 563,
+        "recovered": 1112
+      },
+      {
+        "date": "2020-02-06T00:00:00",
+        "confirmed": 30587,
+        "deaths": 633,
+        "recovered": 1477
+      },
+      {
+        "date": "2020-02-07T00:00:00",
+        "confirmed": 34110,
+        "deaths": 718,
+        "recovered": 1999
+      },
+      {
+        "date": "2020-02-08T00:00:00",
+        "confirmed": 36814,
+        "deaths": 805,
+        "recovered": 2594
+      },
+      {
+        "date": "2020-02-09T00:00:00",
+        "confirmed": 39829,
+        "deaths": 905,
+        "recovered": 3219
+      },
+      {
+        "date": "2020-02-10T00:00:00",
+        "confirmed": 42354,
+        "deaths": 1012,
+        "recovered": 3916
+      },
+      {
+        "date": "2020-02-11T00:00:00",
+        "confirmed": 44386,
+        "deaths": 1112,
+        "recovered": 4636
+      },
+      {
+        "date": "2020-02-12T00:00:00",
+        "confirmed": 44759,
+        "deaths": 1117,
+        "recovered": 5083
+      },
+      {
+        "date": "2020-02-13T00:00:00",
+        "confirmed": 59895,
+        "deaths": 1369,
+        "recovered": 6217
+      },
+      {
+        "date": "2020-02-14T00:00:00",
+        "confirmed": 66358,
+        "deaths": 1521,
+        "recovered": 7973
+      },
+      {
+        "date": "2020-02-15T00:00:00",
+        "confirmed": 68413,
+        "deaths": 1663,
+        "recovered": 9298
+      },
+      {
+        "date": "2020-02-16T00:00:00",
+        "confirmed": 70513,
+        "deaths": 1766,
+        "recovered": 10755
+      },
+      {
+        "date": "2020-02-17T00:00:00",
+        "confirmed": 72434,
+        "deaths": 1864,
+        "recovered": 12462
+      },
+      {
+        "date": "2020-02-18T00:00:00",
+        "confirmed": 74211,
+        "deaths": 2003,
+        "recovered": 14206
+      },
+      {
+        "date": "2020-02-19T00:00:00",
+        "confirmed": 74619,
+        "deaths": 2116,
+        "recovered": 15962
+      },
+      {
+        "date": "2020-02-20T00:00:00",
+        "confirmed": 75077,
+        "deaths": 2238,
+        "recovered": 18013
+      },
+      {
+        "date": "2020-02-21T00:00:00",
+        "confirmed": 75550,
+        "deaths": 2238,
+        "recovered": 18704
+      },
+      {
+        "date": "2020-02-22T00:00:00",
+        "confirmed": 77001,
+        "deaths": 2443,
+        "recovered": 22699
+      },
+      {
+        "date": "2020-02-23T00:00:00",
+        "confirmed": 77022,
+        "deaths": 2445,
+        "recovered": 23187
+      },
+      {
+        "date": "2020-02-24T00:00:00",
+        "confirmed": 77241,
+        "deaths": 2595,
+        "recovered": 25015
+      },
+      {
+        "date": "2020-02-25T00:00:00",
+        "confirmed": 77754,
+        "deaths": 2665,
+        "recovered": 27676
+      },
+      {
+        "date": "2020-02-26T00:00:00",
+        "confirmed": 78166,
+        "deaths": 2717,
+        "recovered": 30084
+      },
+      {
+        "date": "2020-02-27T00:00:00",
+        "confirmed": 78600,
+        "deaths": 2746,
+        "recovered": 32930
+      },
+      {
+        "date": "2020-02-28T00:00:00",
+        "confirmed": 78928,
+        "deaths": 2790,
+        "recovered": 36329
+      },
+      {
+        "date": "2020-02-29T00:00:00",
+        "confirmed": 79356,
+        "deaths": 2837,
+        "recovered": 39320
+      },
+      {
+        "date": "2020-03-01T00:00:00",
+        "confirmed": 79932,
+        "deaths": 2872,
+        "recovered": 42162
+      },
+      {
+        "date": "2020-03-02T00:00:00",
+        "confirmed": 80136,
+        "deaths": 2914,
+        "recovered": 44854
+      },
+      {
+        "date": "2020-03-03T00:00:00",
+        "confirmed": 80261,
+        "deaths": 2947,
+        "recovered": 47450
+      },
+      {
+        "date": "2020-03-04T00:00:00",
+        "confirmed": 80386,
+        "deaths": 2983,
+        "recovered": 50001
+      },
+      {
+        "date": "2020-03-05T00:00:00",
+        "confirmed": 80537,
+        "deaths": 3015,
+        "recovered": 52292
+      },
+      {
+        "date": "2020-03-06T00:00:00",
+        "confirmed": 80690,
+        "deaths": 3044,
+        "recovered": 53944
+      },
+      {
+        "date": "2020-03-07T00:00:00",
+        "confirmed": 80770,
+        "deaths": 3072,
+        "recovered": 55539
+      },
+      {
+        "date": "2020-03-08T00:00:00",
+        "confirmed": 80823,
+        "deaths": 3100,
+        "recovered": 57388
+      },
+      {
+        "date": "2020-03-09T00:00:00",
+        "confirmed": 80860,
+        "deaths": 3123,
+        "recovered": 58804
+      },
+      {
+        "date": "2020-03-10T00:00:00",
+        "confirmed": 80887,
+        "deaths": 3139,
+        "recovered": 60181
+      },
+      {
+        "date": "2020-03-11T00:00:00",
+        "confirmed": 80921,
+        "deaths": 3161,
+        "recovered": 61644
+      },
+      {
+        "date": "2020-03-12T00:00:00",
+        "confirmed": 80935,
+        "deaths": 3173,
+        "recovered": 62911
+      },
+      {
+        "date": "2020-03-13T00:00:00",
+        "confirmed": 80972,
+        "deaths": 3193,
+        "recovered": 65634
+      },
+      {
+        "date": "2020-03-14T00:00:00",
+        "confirmed": 80996,
+        "deaths": 3203,
+        "recovered": 67004
+      },
+      {
+        "date": "2020-03-15T00:00:00",
+        "confirmed": 81020,
+        "deaths": 3217,
+        "recovered": 67843
+      },
+      {
+        "date": "2020-03-16T00:00:00",
+        "confirmed": 81051,
+        "deaths": 3230,
+        "recovered": 68777
+      },
+      {
+        "date": "2020-03-17T00:00:00",
+        "confirmed": 81088,
+        "deaths": 3241,
+        "recovered": 69717
+      },
+      {
+        "date": "2020-03-18T00:00:00",
+        "confirmed": 81140,
+        "deaths": 3249,
+        "recovered": 70529
+      },
+      {
+        "date": "2020-03-19T00:00:00",
+        "confirmed": 81200,
+        "deaths": 3252,
+        "recovered": 71262
+      },
+      {
+        "date": "2020-03-20T00:00:00",
+        "confirmed": 81287,
+        "deaths": 3259,
+        "recovered": 71854
+      },
+      {
+        "date": "2020-03-21T00:00:00",
+        "confirmed": 81349,
+        "deaths": 3265,
+        "recovered": 72360
+      },
+      {
+        "date": "2020-03-22T00:00:00",
+        "confirmed": 81440,
+        "deaths": 3274,
+        "recovered": 72815
+      },
+      {
+        "date": "2020-03-23T00:00:00",
+        "confirmed": 81515,
+        "deaths": 3274,
+        "recovered": 72822
+      },
+      {
+        "date": "2020-03-24T00:00:00",
+        "confirmed": 81596,
+        "deaths": 3281,
+        "recovered": 73281
+      },
+      {
+        "date": "2020-03-25T00:00:00",
+        "confirmed": 81728,
+        "deaths": 3291,
+        "recovered": 74173
+      },
+      {
+        "date": "2020-03-26T00:00:00",
+        "confirmed": 81785,
+        "deaths": 3291,
+        "recovered": 74181
+      },
+      {
+        "date": "2020-03-27T00:00:00",
+        "confirmed": 81947,
+        "deaths": 3299,
+        "recovered": 75098
+      },
+      {
+        "date": "2020-03-28T00:00:00",
+        "confirmed": 82057,
+        "deaths": 3304,
+        "recovered": 75576
+      },
+      {
+        "date": "2020-03-29T00:00:00",
+        "confirmed": 82153,
+        "deaths": 3308,
+        "recovered": 75904
+      },
+      {
+        "date": "2020-03-30T00:00:00",
+        "confirmed": 82241,
+        "deaths": 3309,
+        "recovered": 76194
+      },
+      {
+        "date": "2020-03-31T00:00:00",
+        "confirmed": 82295,
+        "deaths": 3310,
+        "recovered": 76206
+      },
+      {
+        "date": "2020-04-01T00:00:00",
+        "confirmed": 82395,
+        "deaths": 3316,
+        "recovered": 76426
+      },
+      {
+        "date": "2020-04-02T00:00:00",
+        "confirmed": 82431,
+        "deaths": 3316,
+        "recovered": 76433
+      },
+      {
+        "date": "2020-04-03T00:00:00",
+        "confirmed": 82475,
+        "deaths": 3316,
+        "recovered": 76452
+      },
+      {
+        "date": "2020-04-04T00:00:00",
+        "confirmed": 82494,
+        "deaths": 3316,
+        "recovered": 76452
+      },
+      {
+        "date": "2020-04-05T00:00:00",
+        "confirmed": 82522,
+        "deaths": 3316,
+        "recovered": 76485
+      }
+    ],
+    "breakdowns": [
+      {
+        "location": {
+          "long": 117.2264,
+          "countryOrRegion": "China",
+          "provinceOrState": "Anhui Sheng",
+          "county": null,
+          "isoCode": "CN-AH",
+          "lat": 31.8257
+        },
+        "totalConfirmedCases": 990,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 6,
+        "newDeaths": 0,
+        "totalRecoveredCases": 984,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": 116.4142,
+          "countryOrRegion": "China",
+          "provinceOrState": "Beijing Shi",
+          "county": null,
+          "isoCode": "CN-BJ",
+          "lat": 40.1824
+        },
+        "totalConfirmedCases": 582,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 8,
+        "newDeaths": 0,
+        "totalRecoveredCases": 424,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": 107.874,
+          "countryOrRegion": "China",
+          "provinceOrState": "Chongqing Shi",
+          "county": null,
+          "isoCode": "CN-CQ",
+          "lat": 30.0572
+        },
+        "totalConfirmedCases": 579,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 6,
+        "newDeaths": 0,
+        "totalRecoveredCases": 570,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": 117.9874,
+          "countryOrRegion": "China",
+          "provinceOrState": "Fujian Sheng",
+          "county": null,
+          "isoCode": "CN-FJ",
+          "lat": 26.0789
+        },
+        "totalConfirmedCases": 345,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 299,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": 103.8343,
+          "countryOrRegion": "China",
+          "provinceOrState": "Gansu Sheng",
+          "county": null,
+          "isoCode": "CN-GS",
+          "lat": 36.0611
+        },
+        "totalConfirmedCases": 138,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 127,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": 113.4244,
+          "countryOrRegion": "China",
+          "provinceOrState": "Guangdong Sheng",
+          "county": null,
+          "isoCode": "CN-GD",
+          "lat": 23.3417
+        },
+        "totalConfirmedCases": 1507,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 8,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1365,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": 108.7881,
+          "countryOrRegion": "China",
+          "provinceOrState": "Guangxi",
+          "county": null,
+          "isoCode": "CN-GX",
+          "lat": 23.8298
+        },
+        "totalConfirmedCases": 254,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 252,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": 106.8748,
+          "countryOrRegion": "China",
+          "provinceOrState": "Guizhou Sheng",
+          "county": null,
+          "isoCode": "CN-GZ",
+          "lat": 26.8154
+        },
+        "totalConfirmedCases": 146,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 144,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": 109.7453,
+          "countryOrRegion": "China",
+          "provinceOrState": "Hainan Sheng",
+          "county": null,
+          "isoCode": "CN-HI",
+          "lat": 19.1959
+        },
+        "totalConfirmedCases": 168,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 6,
+        "newDeaths": 0,
+        "totalRecoveredCases": 168,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": 114.5149,
+          "countryOrRegion": "China",
+          "provinceOrState": "Hebei Sheng",
+          "county": null,
+          "isoCode": "CN-HE",
+          "lat": 38.0428
+        },
+        "totalConfirmedCases": 325,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 6,
+        "newDeaths": 0,
+        "totalRecoveredCases": 310,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": 127.7615,
+          "countryOrRegion": "China",
+          "provinceOrState": "Heilongjiang Sheng",
+          "county": null,
+          "isoCode": "CN-HL",
+          "lat": 47.862
+        },
+        "totalConfirmedCases": 488,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 13,
+        "newDeaths": 0,
+        "totalRecoveredCases": 469,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": 113.614,
+          "countryOrRegion": "China",
+          "provinceOrState": "Henan Sheng",
+          "county": null,
+          "isoCode": "CN-HA",
+          "lat": 33.88202
+        },
+        "totalConfirmedCases": 1276,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 22,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1251,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": 114.2,
+          "countryOrRegion": "China",
+          "provinceOrState": "Hong Kong SAR",
+          "county": null,
+          "isoCode": "CN-HK",
+          "lat": 22.3
+        },
+        "totalConfirmedCases": 890,
+        "newlyConfirmedCases": 28,
+        "totalDeaths": 4,
+        "newDeaths": 0,
+        "totalRecoveredCases": 206,
+        "newlyRecoveredCases": 33
+      },
+      {
+        "location": {
+          "long": 112.2707,
+          "countryOrRegion": "China",
+          "provinceOrState": "Hubei Sheng",
+          "county": null,
+          "isoCode": "CN-HB",
+          "lat": 30.9756
+        },
+        "totalConfirmedCases": 67802,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 3193,
+        "newDeaths": 0,
+        "totalRecoveredCases": 63326,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": 111.7088,
+          "countryOrRegion": "China",
+          "provinceOrState": "Hunan Sheng",
+          "county": null,
+          "isoCode": "CN-HN",
+          "lat": 27.6104
+        },
+        "totalConfirmedCases": 1019,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 4,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1014,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": 119.455,
+          "countryOrRegion": "China",
+          "provinceOrState": "Jiangsu Sheng",
+          "county": null,
+          "isoCode": "CN-JS",
+          "lat": 32.9711
+        },
+        "totalConfirmedCases": 647,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 631,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": 115.7221,
+          "countryOrRegion": "China",
+          "provinceOrState": "Jiangxi Sheng",
+          "county": null,
+          "isoCode": "CN-JX",
+          "lat": 27.614
+        },
+        "totalConfirmedCases": 937,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 935,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": 126.1923,
+          "countryOrRegion": "China",
+          "provinceOrState": "Jilin Sheng",
+          "county": null,
+          "isoCode": "CN-JL",
+          "lat": 43.6661
+        },
+        "totalConfirmedCases": 98,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 92,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": 122.6085,
+          "countryOrRegion": "China",
+          "provinceOrState": "Liaoning Sheng",
+          "county": null,
+          "isoCode": "CN-LN",
+          "lat": 41.2956
+        },
+        "totalConfirmedCases": 140,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 124,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": 113.55,
+          "countryOrRegion": "China",
+          "provinceOrState": "Macao SAR",
+          "county": null,
+          "isoCode": "CN-MO",
+          "lat": 22.1667
+        },
+        "totalConfirmedCases": 44,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 10,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": 113.9448,
+          "countryOrRegion": "China",
+          "provinceOrState": "Nei Mongol",
+          "county": null,
+          "isoCode": "CN-NM",
+          "lat": 44.0935
+        },
+        "totalConfirmedCases": 117,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 74,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": 106.1655,
+          "countryOrRegion": "China",
+          "provinceOrState": "Ningxia",
+          "county": null,
+          "isoCode": "CN-NX",
+          "lat": 37.2692
+        },
+        "totalConfirmedCases": 75,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 75,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": 95.9956,
+          "countryOrRegion": "China",
+          "provinceOrState": "Qinghai Sheng",
+          "county": null,
+          "isoCode": "CN-QH",
+          "lat": 35.7452
+        },
+        "totalConfirmedCases": 18,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 18,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": 108.8701,
+          "countryOrRegion": "China",
+          "provinceOrState": "Shaanxi Sheng",
+          "county": null,
+          "isoCode": "CN-SN",
+          "lat": 35.1917
+        },
+        "totalConfirmedCases": 255,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 242,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": 118.1498,
+          "countryOrRegion": "China",
+          "provinceOrState": "Shandong Sheng",
+          "county": null,
+          "isoCode": "CN-SD",
+          "lat": 36.3427
+        },
+        "totalConfirmedCases": 775,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 7,
+        "newDeaths": 0,
+        "totalRecoveredCases": 753,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": 121.4491,
+          "countryOrRegion": "China",
+          "provinceOrState": "Shanghai Shi",
+          "county": null,
+          "isoCode": "CN-SH",
+          "lat": 31.202
+        },
+        "totalConfirmedCases": 522,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 6,
+        "newDeaths": 0,
+        "totalRecoveredCases": 343,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": 112.2922,
+          "countryOrRegion": "China",
+          "provinceOrState": "Shanxi Sheng",
+          "county": null,
+          "isoCode": "CN-SX",
+          "lat": 37.5777
+        },
+        "totalConfirmedCases": 137,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 133,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": 102.7103,
+          "countryOrRegion": "China",
+          "provinceOrState": "Sichuan Sheng",
+          "county": null,
+          "isoCode": "CN-SC",
+          "lat": 30.6171
+        },
+        "totalConfirmedCases": 554,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 537,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": 117.323,
+          "countryOrRegion": "China",
+          "provinceOrState": "Tianjin Shi",
+          "county": null,
+          "isoCode": "CN-TJ",
+          "lat": 39.3054
+        },
+        "totalConfirmedCases": 176,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 135,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": 85.2401,
+          "countryOrRegion": "China",
+          "provinceOrState": "Xinjiang",
+          "county": null,
+          "isoCode": "CN-XJ",
+          "lat": 41.1129
+        },
+        "totalConfirmedCases": 76,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 73,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": 88.0924,
+          "countryOrRegion": "China",
+          "provinceOrState": "Xizang",
+          "county": null,
+          "isoCode": "CN-XZ",
+          "lat": 31.6927
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": 101.487,
+          "countryOrRegion": "China",
+          "provinceOrState": "Yunnan Sheng",
+          "county": null,
+          "isoCode": "CN-YN",
+          "lat": 24.974
+        },
+        "totalConfirmedCases": 183,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 172,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": 120.0934,
+          "countryOrRegion": "China",
+          "provinceOrState": "Zhejiang Sheng",
+          "county": null,
+          "isoCode": "CN-ZJ",
+          "lat": 29.1832
+        },
+        "totalConfirmedCases": 1258,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1228,
+        "newlyRecoveredCases": 0
+      }
+    ]
+  }
+}

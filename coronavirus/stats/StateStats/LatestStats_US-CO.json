@@ -1,0 +1,1337 @@
+{
+  "location": {
+    "long": -105.782067,
+    "countryOrRegion": "United States",
+    "provinceOrState": "Colorado",
+    "county": null,
+    "isoCode": "US-CO",
+    "lat": 39.550051
+  },
+  "updatedDateTime": "2020-04-05T17:46:09.8012828Z",
+  "stats": {
+    "totalConfirmedCases": 4565,
+    "newlyConfirmedCases": 0,
+    "totalDeaths": 126,
+    "newDeaths": 0,
+    "totalRecoveredCases": 0,
+    "newlyRecoveredCases": 0,
+    "history": [
+      {
+        "date": "2020-01-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-30T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-31T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-03T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-04T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-05T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-06T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-07T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-08T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-09T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-10T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-11T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-12T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-13T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-14T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-15T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-16T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-17T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-18T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-19T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-20T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-21T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-03T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-04T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-05T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-06T00:00:00",
+        "confirmed": 3,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-07T00:00:00",
+        "confirmed": 7,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-08T00:00:00",
+        "confirmed": 7,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-09T00:00:00",
+        "confirmed": 7,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-10T00:00:00",
+        "confirmed": 14,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-11T00:00:00",
+        "confirmed": 27,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-12T00:00:00",
+        "confirmed": 50,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-13T00:00:00",
+        "confirmed": 76,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-14T00:00:00",
+        "confirmed": 100,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-15T00:00:00",
+        "confirmed": 133,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-16T00:00:00",
+        "confirmed": 133,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-17T00:00:00",
+        "confirmed": 185,
+        "deaths": 2,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-18T00:00:00",
+        "confirmed": 221,
+        "deaths": 2,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-19T00:00:00",
+        "confirmed": 277,
+        "deaths": 4,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-20T00:00:00",
+        "confirmed": 363,
+        "deaths": 4,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-21T00:00:00",
+        "confirmed": 476,
+        "deaths": 6,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-22T00:00:00",
+        "confirmed": 595,
+        "deaths": 7,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-23T00:00:00",
+        "confirmed": 723,
+        "deaths": 7,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-24T00:00:00",
+        "confirmed": 912,
+        "deaths": 11,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-25T00:00:00",
+        "confirmed": 1087,
+        "deaths": 20,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-26T00:00:00",
+        "confirmed": 1430,
+        "deaths": 19,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-27T00:00:00",
+        "confirmed": 1740,
+        "deaths": 31,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-28T00:00:00",
+        "confirmed": 2063,
+        "deaths": 44,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-29T00:00:00",
+        "confirmed": 2308,
+        "deaths": 47,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-30T00:00:00",
+        "confirmed": 2627,
+        "deaths": 51,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-31T00:00:00",
+        "confirmed": 2968,
+        "deaths": 69,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-01T00:00:00",
+        "confirmed": 3330,
+        "deaths": 80,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-02T00:00:00",
+        "confirmed": 3728,
+        "deaths": 97,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-03T00:00:00",
+        "confirmed": 4173,
+        "deaths": 111,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-04T00:00:00",
+        "confirmed": 4565,
+        "deaths": 126,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-05T00:00:00",
+        "confirmed": 4565,
+        "deaths": 126,
+        "recovered": 0
+      }
+    ],
+    "breakdowns": [
+      {
+        "location": {
+          "long": -104.7274,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Adams",
+          "isoCode": "US-CO",
+          "lat": 39.7084
+        },
+        "totalConfirmedCases": 320,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 9,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -105.8396,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Alamosa",
+          "isoCode": "US-CO",
+          "lat": 37.4767
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -104.3326,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Arapahoe",
+          "isoCode": "US-CO",
+          "lat": 39.6203
+        },
+        "totalConfirmedCases": 552,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 10,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -102.2801,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Baca",
+          "isoCode": "US-CO",
+          "lat": 37.3861
+        },
+        "totalConfirmedCases": 9,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -105.5136,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Boulder",
+          "isoCode": "US-CO",
+          "lat": 40.0726
+        },
+        "totalConfirmedCases": 154,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -105.0527,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Broomfield",
+          "isoCode": "US-CO",
+          "lat": 39.9541
+        },
+        "totalConfirmedCases": 44,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -106.0085,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Chaffee",
+          "isoCode": "US-CO",
+          "lat": 38.5524
+        },
+        "totalConfirmedCases": 21,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -105.4306,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Clear Creek",
+          "isoCode": "US-CO",
+          "lat": 39.7241
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -105.5667,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Costilla",
+          "isoCode": "US-CO",
+          "lat": 37.2086
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -103.7567,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Crowley",
+          "isoCode": "US-CO",
+          "lat": 38.2209
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -107.61,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Delta",
+          "isoCode": "US-CO",
+          "lat": 38.7053
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -104.9903,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Denver",
+          "isoCode": "US-CO",
+          "lat": 39.7392
+        },
+        "totalConfirmedCases": 769,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 14,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -104.9389,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Douglas",
+          "isoCode": "US-CO",
+          "lat": 39.2587
+        },
+        "totalConfirmedCases": 209,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -106.8287,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Eagle",
+          "isoCode": "US-CO",
+          "lat": 39.6553
+        },
+        "totalConfirmedCases": 333,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 5,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -104.4723,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "El Paso",
+          "isoCode": "US-CO",
+          "lat": 38.9108
+        },
+        "totalConfirmedCases": 406,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 22,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -104.5403,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Elbert",
+          "isoCode": "US-CO",
+          "lat": 39.2189
+        },
+        "totalConfirmedCases": 9,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -105.1417,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Fremont",
+          "isoCode": "US-CO",
+          "lat": 38.362
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -107.2599,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Garfield",
+          "isoCode": "US-CO",
+          "lat": 39.4667
+        },
+        "totalConfirmedCases": 45,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -106.3782,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Grand",
+          "isoCode": "US-CO",
+          "lat": 40.0565
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -106.9253,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Gunnison",
+          "isoCode": "US-CO",
+          "lat": 38.5458
+        },
+        "totalConfirmedCases": 90,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -107.0306,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Hinsdale",
+          "isoCode": "US-CO",
+          "lat": 38.0836
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -104.7818,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Huerfano",
+          "isoCode": "US-CO",
+          "lat": 37.6307
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -105.2663,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Jefferson",
+          "isoCode": "US-CO",
+          "lat": 39.58
+        },
+        "totalConfirmedCases": 483,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 15,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -102.4234,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Kit Carson",
+          "isoCode": "US-CO",
+          "lat": 39.3038
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -107.5933,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "La Plata",
+          "isoCode": "US-CO",
+          "lat": 37.0749
+        },
+        "totalConfirmedCases": 25,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -105.5943,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Larimer",
+          "isoCode": "US-CO",
+          "lat": 40.6956
+        },
+        "totalConfirmedCases": 144,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 8,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -103.4735,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Lincoln",
+          "isoCode": "US-CO",
+          "lat": 39.1361
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -102.8395,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Logan",
+          "isoCode": "US-CO",
+          "lat": 40.6818
+        },
+        "totalConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -108.5673,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Mesa",
+          "isoCode": "US-CO",
+          "lat": 39.0877
+        },
+        "totalConfirmedCases": 20,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -106.9252,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Mineral",
+          "isoCode": "US-CO",
+          "lat": 37.8488
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -108.0889,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Moffat",
+          "isoCode": "US-CO",
+          "lat": 40.5191
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -108.66,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Montezuma",
+          "isoCode": "US-CO",
+          "lat": 37.5017
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -107.9827,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Montrose",
+          "isoCode": "US-CO",
+          "lat": 38.6084
+        },
+        "totalConfirmedCases": 31,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -103.8023,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Morgan",
+          "isoCode": "US-CO",
+          "lat": 40.3134
+        },
+        "totalConfirmedCases": 16,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -103.5549,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Otero",
+          "isoCode": "US-CO",
+          "lat": 38.0014
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -105.5024,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Park",
+          "isoCode": "US-CO",
+          "lat": 38.7591
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": 106.5167,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Pitkin",
+          "isoCode": "US-CO",
+          "lat": 38.6092
+        },
+        "totalConfirmedCases": 38,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -104.3434,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Pueblo",
+          "isoCode": "US-CO",
+          "lat": 38.2351
+        },
+        "totalConfirmedCases": 36,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -106.586,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Rio Grande",
+          "isoCode": "US-CO",
+          "lat": 37.6877
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -106.9574,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Routt",
+          "isoCode": "US-CO",
+          "lat": 40.2738
+        },
+        "totalConfirmedCases": 29,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -108.2918,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "San Miguel",
+          "isoCode": "US-CO",
+          "lat": 38.1286
+        },
+        "totalConfirmedCases": 9,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -106.064,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Summit",
+          "isoCode": "US-CO",
+          "lat": 39.5912
+        },
+        "totalConfirmedCases": 50,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -105.1619,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Teller",
+          "isoCode": "US-CO",
+          "lat": 38.945
+        },
+        "totalConfirmedCases": 11,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -103.2206,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Washington",
+          "isoCode": "US-CO",
+          "lat": 40.1644
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -104.2259,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Weld",
+          "isoCode": "US-CO",
+          "lat": 40.8691
+        },
+        "totalConfirmedCases": 424,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 22,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -102.2938,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Yuma",
+          "isoCode": "US-CO",
+          "lat": 39.7029
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -107.0301,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Archuleta",
+          "isoCode": "US-CO",
+          "lat": 37.2675
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -106.2935,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Lake",
+          "isoCode": "US-CO",
+          "lat": 39.2467
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -102.1725,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Phillips",
+          "isoCode": "US-CO",
+          "lat": 40.6831
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -106.1407,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Saguache",
+          "isoCode": "US-CO",
+          "lat": 38.0862
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -105.4654,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Custer",
+          "isoCode": "US-CO",
+          "lat": 38.134
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -104.7396,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Las Animas",
+          "isoCode": "US-CO",
+          "lat": 37.1225
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -107.8953,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Rio Blanco",
+          "isoCode": "US-CO",
+          "lat": 40.0498
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -107.6734,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Colorado",
+          "county": "Ouray",
+          "isoCode": "US-CO",
+          "lat": 38.0276
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      }
+    ]
+  }
+}

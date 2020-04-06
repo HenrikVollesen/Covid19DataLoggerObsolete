@@ -1,0 +1,809 @@
+{
+  "location": {
+    "long": -74.405661,
+    "countryOrRegion": "United States",
+    "provinceOrState": "New Jersey",
+    "county": null,
+    "isoCode": "US-NJ",
+    "lat": 40.058324
+  },
+  "updatedDateTime": "2020-04-05T17:46:09.966776Z",
+  "stats": {
+    "totalConfirmedCases": 34124,
+    "newlyConfirmedCases": 0,
+    "totalDeaths": 846,
+    "newDeaths": 0,
+    "totalRecoveredCases": 13,
+    "newlyRecoveredCases": 0,
+    "history": [
+      {
+        "date": "2020-01-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-30T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-31T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-03T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-04T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-05T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-06T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-07T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-08T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-09T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-10T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-11T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-12T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-13T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-14T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-15T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-16T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-17T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-18T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-19T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-20T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-21T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-03T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-04T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-05T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-06T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-07T00:00:00",
+        "confirmed": 4,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-08T00:00:00",
+        "confirmed": 5,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-09T00:00:00",
+        "confirmed": 5,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-10T00:00:00",
+        "confirmed": 15,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-11T00:00:00",
+        "confirmed": 23,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-12T00:00:00",
+        "confirmed": 31,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-13T00:00:00",
+        "confirmed": 51,
+        "deaths": 1,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-14T00:00:00",
+        "confirmed": 71,
+        "deaths": 2,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-15T00:00:00",
+        "confirmed": 109,
+        "deaths": 2,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-16T00:00:00",
+        "confirmed": 179,
+        "deaths": 3,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-17T00:00:00",
+        "confirmed": 267,
+        "deaths": 3,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-18T00:00:00",
+        "confirmed": 425,
+        "deaths": 5,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-19T00:00:00",
+        "confirmed": 740,
+        "deaths": 9,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-20T00:00:00",
+        "confirmed": 890,
+        "deaths": 11,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-21T00:00:00",
+        "confirmed": 1327,
+        "deaths": 16,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-22T00:00:00",
+        "confirmed": 1914,
+        "deaths": 21,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-23T00:00:00",
+        "confirmed": 2844,
+        "deaths": 27,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-24T00:00:00",
+        "confirmed": 3675,
+        "deaths": 44,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-25T00:00:00",
+        "confirmed": 4407,
+        "deaths": 62,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-26T00:00:00",
+        "confirmed": 6876,
+        "deaths": 81,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-27T00:00:00",
+        "confirmed": 8825,
+        "deaths": 108,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-28T00:00:00",
+        "confirmed": 11124,
+        "deaths": 140,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-29T00:00:00",
+        "confirmed": 11666,
+        "deaths": 154,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-30T00:00:00",
+        "confirmed": 12789,
+        "deaths": 121,
+        "recovered": 13
+      },
+      {
+        "date": "2020-03-31T00:00:00",
+        "confirmed": 12789,
+        "deaths": 121,
+        "recovered": 13
+      },
+      {
+        "date": "2020-04-01T00:00:00",
+        "confirmed": 22255,
+        "deaths": 355,
+        "recovered": 13
+      },
+      {
+        "date": "2020-04-02T00:00:00",
+        "confirmed": 25590,
+        "deaths": 537,
+        "recovered": 13
+      },
+      {
+        "date": "2020-04-03T00:00:00",
+        "confirmed": 29895,
+        "deaths": 646,
+        "recovered": 13
+      },
+      {
+        "date": "2020-04-04T00:00:00",
+        "confirmed": 34124,
+        "deaths": 846,
+        "recovered": 13
+      },
+      {
+        "date": "2020-04-05T00:00:00",
+        "confirmed": 34124,
+        "deaths": 846,
+        "recovered": 13
+      }
+    ],
+    "breakdowns": [
+      {
+        "location": {
+          "long": -74.5961,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Jersey",
+          "county": "Atlantic",
+          "isoCode": "US-NJ",
+          "lat": 39.564
+        },
+        "totalConfirmedCases": 98,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -74.077,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Jersey",
+          "county": "Bergen",
+          "isoCode": "US-NJ",
+          "lat": 40.9263
+        },
+        "totalConfirmedCases": 5760,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 179,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -74.8649,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Jersey",
+          "county": "Burlington",
+          "isoCode": "US-NJ",
+          "lat": 40.0712
+        },
+        "totalConfirmedCases": 469,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 10,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -75.1196,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Jersey",
+          "county": "Camden",
+          "isoCode": "US-NJ",
+          "lat": 39.9259
+        },
+        "totalConfirmedCases": 481,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 8,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -74.9516,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Jersey",
+          "county": "Cape May",
+          "isoCode": "US-NJ",
+          "lat": 38.9765
+        },
+        "totalConfirmedCases": 50,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -75.0306,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Jersey",
+          "county": "Cumberland",
+          "isoCode": "US-NJ",
+          "lat": 39.3265
+        },
+        "totalConfirmedCases": 40,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -74.2014,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Jersey",
+          "county": "Essex",
+          "isoCode": "US-NJ",
+          "lat": 40.8428
+        },
+        "totalConfirmedCases": 3584,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 155,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -75.3117,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Jersey",
+          "county": "Gloucester",
+          "isoCode": "US-NJ",
+          "lat": 39.7458
+        },
+        "totalConfirmedCases": 215,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 3,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -74.0535,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Jersey",
+          "county": "Hudson",
+          "isoCode": "US-NJ",
+          "lat": 40.7453
+        },
+        "totalConfirmedCases": 3491,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 78,
+        "newDeaths": 0,
+        "totalRecoveredCases": 7,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -74.772,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Jersey",
+          "county": "Hunterdon",
+          "isoCode": "US-NJ",
+          "lat": 40.6159
+        },
+        "totalConfirmedCases": 171,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -74.7641,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Jersey",
+          "county": "Mercer",
+          "isoCode": "US-NJ",
+          "lat": 40.2236
+        },
+        "totalConfirmedCases": 586,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 13,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -74.4927,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Jersey",
+          "county": "Middlesex",
+          "isoCode": "US-NJ",
+          "lat": 40.5726
+        },
+        "totalConfirmedCases": 2578,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 76,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -74.124,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Jersey",
+          "county": "Monmouth",
+          "isoCode": "US-NJ",
+          "lat": 40.2589
+        },
+        "totalConfirmedCases": 2065,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 54,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -74.4772,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Jersey",
+          "county": "Morris",
+          "isoCode": "US-NJ",
+          "lat": 40.7966
+        },
+        "totalConfirmedCases": 1618,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 51,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -74.1678,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Jersey",
+          "county": "Ocean",
+          "isoCode": "US-NJ",
+          "lat": 40.0384
+        },
+        "totalConfirmedCases": 2003,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 56,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -74.1285,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Jersey",
+          "county": "Passaic",
+          "isoCode": "US-NJ",
+          "lat": 40.8568
+        },
+        "totalConfirmedCases": 2856,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 38,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -75.3251,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Jersey",
+          "county": "Salem",
+          "isoCode": "US-NJ",
+          "lat": 39.6503
+        },
+        "totalConfirmedCases": 25,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -74.5745,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Jersey",
+          "county": "Somerset",
+          "isoCode": "US-NJ",
+          "lat": 40.5361
+        },
+        "totalConfirmedCases": 765,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 24,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -74.5015,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Jersey",
+          "county": "Sussex",
+          "isoCode": "US-NJ",
+          "lat": 41.1874
+        },
+        "totalConfirmedCases": 236,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 9,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -74.2632,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Jersey",
+          "county": "Union",
+          "isoCode": "US-NJ",
+          "lat": 40.6976
+        },
+        "totalConfirmedCases": 2916,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 66,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -75.1558,
+          "countryOrRegion": "United States",
+          "provinceOrState": "New Jersey",
+          "county": "Warren",
+          "isoCode": "US-NJ",
+          "lat": 40.6774
+        },
+        "totalConfirmedCases": 182,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 6,
+        "newDeaths": 0,
+        "totalRecoveredCases": 4,
+        "newlyRecoveredCases": 0
+      }
+    ]
+  }
+}

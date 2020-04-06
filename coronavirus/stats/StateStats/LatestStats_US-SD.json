@@ -1,0 +1,1001 @@
+{
+  "location": {
+    "long": -99.901813,
+    "countryOrRegion": "United States",
+    "provinceOrState": "South Dakota",
+    "county": null,
+    "isoCode": "US-SD",
+    "lat": 43.969515
+  },
+  "updatedDateTime": "2020-04-05T17:46:10.1393572Z",
+  "stats": {
+    "totalConfirmedCases": 212,
+    "newlyConfirmedCases": 0,
+    "totalDeaths": 2,
+    "newDeaths": 0,
+    "totalRecoveredCases": 76,
+    "newlyRecoveredCases": 0,
+    "history": [
+      {
+        "date": "2020-01-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-30T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-31T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-03T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-04T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-05T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-06T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-07T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-08T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-09T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-10T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-11T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-12T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-13T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-14T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-15T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-16T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-17T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-18T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-19T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-20T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-21T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-03T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-04T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-05T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-06T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-07T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-08T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-09T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-10T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-11T00:00:00",
+        "confirmed": 8,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-12T00:00:00",
+        "confirmed": 8,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-13T00:00:00",
+        "confirmed": 9,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-14T00:00:00",
+        "confirmed": 9,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-15T00:00:00",
+        "confirmed": 9,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-16T00:00:00",
+        "confirmed": 10,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-17T00:00:00",
+        "confirmed": 11,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-18T00:00:00",
+        "confirmed": 11,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-19T00:00:00",
+        "confirmed": 14,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-20T00:00:00",
+        "confirmed": 14,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-21T00:00:00",
+        "confirmed": 14,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-22T00:00:00",
+        "confirmed": 21,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-23T00:00:00",
+        "confirmed": 28,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-24T00:00:00",
+        "confirmed": 30,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-25T00:00:00",
+        "confirmed": 41,
+        "deaths": 1,
+        "recovered": 8
+      },
+      {
+        "date": "2020-03-26T00:00:00",
+        "confirmed": 46,
+        "deaths": 1,
+        "recovered": 8
+      },
+      {
+        "date": "2020-03-27T00:00:00",
+        "confirmed": 58,
+        "deaths": 1,
+        "recovered": 8
+      },
+      {
+        "date": "2020-03-28T00:00:00",
+        "confirmed": 68,
+        "deaths": 1,
+        "recovered": 8
+      },
+      {
+        "date": "2020-03-29T00:00:00",
+        "confirmed": 90,
+        "deaths": 1,
+        "recovered": 8
+      },
+      {
+        "date": "2020-03-30T00:00:00",
+        "confirmed": 101,
+        "deaths": 1,
+        "recovered": 8
+      },
+      {
+        "date": "2020-03-31T00:00:00",
+        "confirmed": 108,
+        "deaths": 1,
+        "recovered": 8
+      },
+      {
+        "date": "2020-04-01T00:00:00",
+        "confirmed": 129,
+        "deaths": 2,
+        "recovered": 51
+      },
+      {
+        "date": "2020-04-02T00:00:00",
+        "confirmed": 165,
+        "deaths": 2,
+        "recovered": 57
+      },
+      {
+        "date": "2020-04-03T00:00:00",
+        "confirmed": 187,
+        "deaths": 2,
+        "recovered": 69
+      },
+      {
+        "date": "2020-04-04T00:00:00",
+        "confirmed": 212,
+        "deaths": 2,
+        "recovered": 76
+      },
+      {
+        "date": "2020-04-05T00:00:00",
+        "confirmed": 212,
+        "deaths": 2,
+        "recovered": 76
+      }
+    ],
+    "breakdowns": [
+      {
+        "location": {
+          "long": -98.5894,
+          "countryOrRegion": "United States",
+          "provinceOrState": "South Dakota",
+          "county": "Aurora",
+          "isoCode": "US-SD",
+          "lat": 43.5272
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -98.2213,
+          "countryOrRegion": "United States",
+          "provinceOrState": "South Dakota",
+          "county": "Beadle",
+          "isoCode": "US-SD",
+          "lat": 44.4797
+        },
+        "totalConfirmedCases": 21,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 18,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.8722,
+          "countryOrRegion": "United States",
+          "provinceOrState": "South Dakota",
+          "county": "Bon Homme",
+          "isoCode": "US-SD",
+          "lat": 42.9815
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.6854,
+          "countryOrRegion": "United States",
+          "provinceOrState": "South Dakota",
+          "county": "Brookings",
+          "isoCode": "US-SD",
+          "lat": 44.2834
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 2,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -98.0992,
+          "countryOrRegion": "United States",
+          "provinceOrState": "South Dakota",
+          "county": "Brown",
+          "isoCode": "US-SD",
+          "lat": 45.2442
+        },
+        "totalConfirmedCases": 9,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 5,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -103.3986,
+          "countryOrRegion": "United States",
+          "provinceOrState": "South Dakota",
+          "county": "Butte",
+          "isoCode": "US-SD",
+          "lat": 44.6182
+        },
+        "totalConfirmedCases": 0,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -98.3965,
+          "countryOrRegion": "United States",
+          "provinceOrState": "South Dakota",
+          "county": "Charles Mix",
+          "isoCode": "US-SD",
+          "lat": 43.0985
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.7806,
+          "countryOrRegion": "United States",
+          "provinceOrState": "South Dakota",
+          "county": "Clark",
+          "isoCode": "US-SD",
+          "lat": 45.107
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.1576,
+          "countryOrRegion": "United States",
+          "provinceOrState": "South Dakota",
+          "county": "Clay",
+          "isoCode": "US-SD",
+          "lat": 43.0837
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 2,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.9742,
+          "countryOrRegion": "United States",
+          "provinceOrState": "South Dakota",
+          "county": "Codington",
+          "isoCode": "US-SD",
+          "lat": 44.9987
+        },
+        "totalConfirmedCases": 9,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 3,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -98.2213,
+          "countryOrRegion": "United States",
+          "provinceOrState": "South Dakota",
+          "county": "Davison",
+          "isoCode": "US-SD",
+          "lat": 43.7242
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 2,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.5465,
+          "countryOrRegion": "United States",
+          "provinceOrState": "South Dakota",
+          "county": "Deuel",
+          "isoCode": "US-SD",
+          "lat": 44.5577
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -103.4836,
+          "countryOrRegion": "United States",
+          "provinceOrState": "South Dakota",
+          "county": "Fall River",
+          "isoCode": "US-SD",
+          "lat": 43.4313
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -99.4659,
+          "countryOrRegion": "United States",
+          "provinceOrState": "South Dakota",
+          "county": "Faulk",
+          "isoCode": "US-SD",
+          "lat": 45.1913
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.4673,
+          "countryOrRegion": "United States",
+          "provinceOrState": "South Dakota",
+          "county": "Hamlin",
+          "isoCode": "US-SD",
+          "lat": 44.5899
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -99.9885,
+          "countryOrRegion": "United States",
+          "provinceOrState": "South Dakota",
+          "county": "Hughes",
+          "isoCode": "US-SD",
+          "lat": 44.5159
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 2,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.8081,
+          "countryOrRegion": "United States",
+          "provinceOrState": "South Dakota",
+          "county": "Hutchinson",
+          "isoCode": "US-SD",
+          "lat": 43.4252
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 2,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -103.72,
+          "countryOrRegion": "United States",
+          "provinceOrState": "South Dakota",
+          "county": "Lawrence",
+          "isoCode": "US-SD",
+          "lat": 44.5458
+        },
+        "totalConfirmedCases": 9,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 4,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.8939,
+          "countryOrRegion": "United States",
+          "provinceOrState": "South Dakota",
+          "county": "Lincoln",
+          "isoCode": "US-SD",
+          "lat": 43.3479
+        },
+        "totalConfirmedCases": 21,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 4,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -100.0583,
+          "countryOrRegion": "United States",
+          "provinceOrState": "South Dakota",
+          "county": "Lyman",
+          "isoCode": "US-SD",
+          "lat": 43.9071
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.4139,
+          "countryOrRegion": "United States",
+          "provinceOrState": "South Dakota",
+          "county": "Marshall",
+          "isoCode": "US-SD",
+          "lat": 45.7248
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.2926,
+          "countryOrRegion": "United States",
+          "provinceOrState": "South Dakota",
+          "county": "McCook",
+          "isoCode": "US-SD",
+          "lat": 43.5978
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -103.4976,
+          "countryOrRegion": "United States",
+          "provinceOrState": "South Dakota",
+          "county": "Meade",
+          "isoCode": "US-SD",
+          "lat": 44.411
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.8351,
+          "countryOrRegion": "United States",
+          "provinceOrState": "South Dakota",
+          "county": "Minnehaha",
+          "isoCode": "US-SD",
+          "lat": 43.6632
+        },
+        "totalConfirmedCases": 81,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 15,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -102.2548,
+          "countryOrRegion": "United States",
+          "provinceOrState": "South Dakota",
+          "county": "Pennington",
+          "isoCode": "US-SD",
+          "lat": 43.8901
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.9173,
+          "countryOrRegion": "United States",
+          "provinceOrState": "South Dakota",
+          "county": "Roberts",
+          "isoCode": "US-SD",
+          "lat": 45.8557
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -100.5948,
+          "countryOrRegion": "United States",
+          "provinceOrState": "South Dakota",
+          "county": "Todd",
+          "isoCode": "US-SD",
+          "lat": 43.3061
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.2605,
+          "countryOrRegion": "United States",
+          "provinceOrState": "South Dakota",
+          "county": "Turner",
+          "isoCode": "US-SD",
+          "lat": 43.4236
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.68,
+          "countryOrRegion": "United States",
+          "provinceOrState": "South Dakota",
+          "county": "Union",
+          "isoCode": "US-SD",
+          "lat": 42.6816
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.3926,
+          "countryOrRegion": "United States",
+          "provinceOrState": "South Dakota",
+          "county": "Yankton",
+          "isoCode": "US-SD",
+          "lat": 42.8901
+        },
+        "totalConfirmedCases": 14,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 4,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.5498,
+          "countryOrRegion": "United States",
+          "provinceOrState": "South Dakota",
+          "county": "Kingsbury",
+          "isoCode": "US-SD",
+          "lat": 44.3862
+        },
+        "totalConfirmedCases": 0,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.3598,
+          "countryOrRegion": "United States",
+          "provinceOrState": "South Dakota",
+          "county": "Lake",
+          "isoCode": "US-SD",
+          "lat": 44.0009
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -98.5089,
+          "countryOrRegion": "United States",
+          "provinceOrState": "South Dakota",
+          "county": "Spink",
+          "isoCode": "US-SD",
+          "lat": 44.7382
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      }
+    ]
+  }
+}

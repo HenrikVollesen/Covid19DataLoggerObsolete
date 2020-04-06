@@ -1,0 +1,1385 @@
+{
+  "location": {
+    "long": -97.092877,
+    "countryOrRegion": "United States",
+    "provinceOrState": "Oklahoma",
+    "county": null,
+    "isoCode": "US-OK",
+    "lat": 35.007752
+  },
+  "updatedDateTime": "2020-04-05T17:46:10.0108322Z",
+  "stats": {
+    "totalConfirmedCases": 1161,
+    "newlyConfirmedCases": 0,
+    "totalDeaths": 42,
+    "newDeaths": 0,
+    "totalRecoveredCases": 1,
+    "newlyRecoveredCases": 0,
+    "history": [
+      {
+        "date": "2020-01-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-30T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-31T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-03T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-04T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-05T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-06T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-07T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-08T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-09T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-10T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-11T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-12T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-13T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-14T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-15T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-16T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-17T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-18T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-19T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-20T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-21T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-03T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-04T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-05T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-06T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-07T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-08T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-09T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-10T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-11T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-12T00:00:00",
+        "confirmed": 3,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-13T00:00:00",
+        "confirmed": 4,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-14T00:00:00",
+        "confirmed": 4,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-15T00:00:00",
+        "confirmed": 7,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-16T00:00:00",
+        "confirmed": 10,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-17T00:00:00",
+        "confirmed": 21,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-18T00:00:00",
+        "confirmed": 31,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-19T00:00:00",
+        "confirmed": 44,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-20T00:00:00",
+        "confirmed": 49,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-21T00:00:00",
+        "confirmed": 53,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-22T00:00:00",
+        "confirmed": 68,
+        "deaths": 2,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-23T00:00:00",
+        "confirmed": 81,
+        "deaths": 2,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-24T00:00:00",
+        "confirmed": 106,
+        "deaths": 3,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-25T00:00:00",
+        "confirmed": 164,
+        "deaths": 6,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-26T00:00:00",
+        "confirmed": 248,
+        "deaths": 7,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-27T00:00:00",
+        "confirmed": 322,
+        "deaths": 8,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-28T00:00:00",
+        "confirmed": 377,
+        "deaths": 15,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-29T00:00:00",
+        "confirmed": 431,
+        "deaths": 16,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-30T00:00:00",
+        "confirmed": 483,
+        "deaths": 17,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-31T00:00:00",
+        "confirmed": 568,
+        "deaths": 23,
+        "recovered": 1
+      },
+      {
+        "date": "2020-04-01T00:00:00",
+        "confirmed": 721,
+        "deaths": 30,
+        "recovered": 1
+      },
+      {
+        "date": "2020-04-02T00:00:00",
+        "confirmed": 881,
+        "deaths": 34,
+        "recovered": 1
+      },
+      {
+        "date": "2020-04-03T00:00:00",
+        "confirmed": 990,
+        "deaths": 38,
+        "recovered": 1
+      },
+      {
+        "date": "2020-04-04T00:00:00",
+        "confirmed": 1162,
+        "deaths": 42,
+        "recovered": 1
+      },
+      {
+        "date": "2020-04-05T00:00:00",
+        "confirmed": 1161,
+        "deaths": 42,
+        "recovered": 1
+      }
+    ],
+    "breakdowns": [
+      {
+        "location": {
+          "long": -94.6036,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Adair",
+          "isoCode": "US-OK",
+          "lat": 35.9845
+        },
+        "totalConfirmedCases": 14,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -99.6284,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Beckham",
+          "isoCode": "US-OK",
+          "lat": 35.2974
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.2304,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Bryan",
+          "isoCode": "US-OK",
+          "lat": 33.9899
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -98.1363,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Caddo",
+          "isoCode": "US-OK",
+          "lat": 34.9362
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -98.1247,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Canadian",
+          "isoCode": "US-OK",
+          "lat": 35.6014
+        },
+        "totalConfirmedCases": 32,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.4661,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Carter",
+          "isoCode": "US-OK",
+          "lat": 34.4779
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.8912,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Cherokee",
+          "isoCode": "US-OK",
+          "lat": 35.9642
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.2972,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Choctaw",
+          "isoCode": "US-OK",
+          "lat": 34.0244
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.3471,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Cleveland",
+          "isoCode": "US-OK",
+          "lat": 35.2335
+        },
+        "totalConfirmedCases": 169,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 8,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -98.7522,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Comanche",
+          "isoCode": "US-OK",
+          "lat": 34.6197
+        },
+        "totalConfirmedCases": 37,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -98.5881,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Cotton",
+          "isoCode": "US-OK",
+          "lat": 34.1954
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.0947,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Craig",
+          "isoCode": "US-OK",
+          "lat": 36.8739
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.5819,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Creek",
+          "isoCode": "US-OK",
+          "lat": 36.0821
+        },
+        "totalConfirmedCases": 43,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -98.6872,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Custer",
+          "isoCode": "US-OK",
+          "lat": 35.5384
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.9979,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Delaware",
+          "isoCode": "US-OK",
+          "lat": 36.3013
+        },
+        "totalConfirmedCases": 11,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.8701,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Garfield",
+          "isoCode": "US-OK",
+          "lat": 36.4061
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.6105,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Garvin",
+          "isoCode": "US-OK",
+          "lat": 34.8392
+        },
+        "totalConfirmedCases": 11,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.7763,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Grady",
+          "isoCode": "US-OK",
+          "lat": 34.9227
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -99.1373,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Jackson",
+          "isoCode": "US-OK",
+          "lat": 34.6268
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.3281,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Kay",
+          "isoCode": "US-OK",
+          "lat": 36.6788
+        },
+        "totalConfirmedCases": 29,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.0814,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Latimer",
+          "isoCode": "US-OK",
+          "lat": 34.9508
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.7205,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Le Flore",
+          "isoCode": "US-OK",
+          "lat": 34.9699
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.8702,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Lincoln",
+          "isoCode": "US-OK",
+          "lat": 35.895
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.263,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Logan",
+          "isoCode": "US-OK",
+          "lat": 35.9324
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.1426,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Love",
+          "isoCode": "US-OK",
+          "lat": 33.7935
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.0195,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Mayes",
+          "isoCode": "US-OK",
+          "lat": 36.477
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.5998,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "McClain",
+          "isoCode": "US-OK",
+          "lat": 35.2404
+        },
+        "totalConfirmedCases": 11,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.6525,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Muskogee",
+          "isoCode": "US-OK",
+          "lat": 35.5559
+        },
+        "totalConfirmedCases": 17,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.4551,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Noble",
+          "isoCode": "US-OK",
+          "lat": 36.2747
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.8047,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Nowata",
+          "isoCode": "US-OK",
+          "lat": 36.9146
+        },
+        "totalConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.5567,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Oklahoma",
+          "isoCode": "US-OK",
+          "lat": 35.5706
+        },
+        "totalConfirmedCases": 256,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 10,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.0279,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Okmulgee",
+          "isoCode": "US-OK",
+          "lat": 35.7769
+        },
+        "totalConfirmedCases": 11,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.708,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Osage",
+          "isoCode": "US-OK",
+          "lat": 36.5698
+        },
+        "totalConfirmedCases": 25,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.8706,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Ottawa",
+          "isoCode": "US-OK",
+          "lat": 36.9316
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.4904,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Pawnee",
+          "isoCode": "US-OK",
+          "lat": 36.1857
+        },
+        "totalConfirmedCases": 16,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.9302,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Payne",
+          "isoCode": "US-OK",
+          "lat": 36.2313
+        },
+        "totalConfirmedCases": 20,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.8357,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Pittsburg",
+          "isoCode": "US-OK",
+          "lat": 34.8353
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.6678,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Pontotoc",
+          "isoCode": "US-OK",
+          "lat": 34.8659
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.9647,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Pottawatomie",
+          "isoCode": "US-OK",
+          "lat": 35.3525
+        },
+        "totalConfirmedCases": 11,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.7663,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Rogers",
+          "isoCode": "US-OK",
+          "lat": 36.1832
+        },
+        "totalConfirmedCases": 12,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.65,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Seminole",
+          "isoCode": "US-OK",
+          "lat": 35.2346
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.4984,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Sequoyah",
+          "isoCode": "US-OK",
+          "lat": 35.4578
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.8207,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Stephens",
+          "isoCode": "US-OK",
+          "lat": 34.616
+        },
+        "totalConfirmedCases": 9,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -101.2161,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Texas",
+          "isoCode": "US-OK",
+          "lat": 36.861
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.941,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Tulsa",
+          "isoCode": "US-OK",
+          "lat": 36.1593
+        },
+        "totalConfirmedCases": 221,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 8,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.3791,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Wagoner",
+          "isoCode": "US-OK",
+          "lat": 35.9641
+        },
+        "totalConfirmedCases": 40,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.9254,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Washington",
+          "isoCode": "US-OK",
+          "lat": 36.9008
+        },
+        "totalConfirmedCases": 33,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -99.5099,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Greer",
+          "isoCode": "US-OK",
+          "lat": 35.0514
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.217,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Atoka",
+          "isoCode": "US-OK",
+          "lat": 34.2356
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.9106,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Kingfisher",
+          "isoCode": "US-OK",
+          "lat": 35.9814
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -99.2045,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Woodward",
+          "isoCode": "US-OK",
+          "lat": 36.4379
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -98.8759,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Kiowa",
+          "isoCode": "US-OK",
+          "lat": 34.8662
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -97.6571,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Grant",
+          "isoCode": "US-OK",
+          "lat": 36.9248
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -98.1779,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Major",
+          "isoCode": "US-OK",
+          "lat": 36.3882
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.0895,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "McCurtain",
+          "isoCode": "US-OK",
+          "lat": 34.0043
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -99.0594,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Washita",
+          "isoCode": "US-OK",
+          "lat": 35.156
+        },
+        "totalConfirmedCases": 0,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -98.8706,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Oklahoma",
+          "county": "Tillman",
+          "isoCode": "US-OK",
+          "lat": 34.3413
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      }
+    ]
+  }
+}

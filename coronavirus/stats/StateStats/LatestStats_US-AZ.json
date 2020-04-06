@@ -1,0 +1,713 @@
+{
+  "location": {
+    "long": -111.093731,
+    "countryOrRegion": "United States",
+    "provinceOrState": "Arizona",
+    "county": null,
+    "isoCode": "US-AZ",
+    "lat": 34.048928
+  },
+  "updatedDateTime": "2020-04-05T17:46:09.7835211Z",
+  "stats": {
+    "totalConfirmedCases": 2019,
+    "newlyConfirmedCases": 0,
+    "totalDeaths": 52,
+    "newDeaths": 0,
+    "totalRecoveredCases": 3,
+    "newlyRecoveredCases": 0,
+    "history": [
+      {
+        "date": "2020-01-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-26T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-27T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-28T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-29T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-30T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-31T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-01T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-02T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-03T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-04T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-05T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-06T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-07T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-08T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-09T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-10T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-11T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-12T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-13T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-14T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-15T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-16T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-17T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-18T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-19T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-20T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-21T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-22T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-23T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-24T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-25T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 1
+      },
+      {
+        "date": "2020-02-26T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 1
+      },
+      {
+        "date": "2020-02-27T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 1
+      },
+      {
+        "date": "2020-02-28T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 1
+      },
+      {
+        "date": "2020-02-29T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-01T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-02T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-03T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-04T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-05T00:00:00",
+        "confirmed": 1,
+        "deaths": 0,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-06T00:00:00",
+        "confirmed": 2,
+        "deaths": 0,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-07T00:00:00",
+        "confirmed": 4,
+        "deaths": 0,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-08T00:00:00",
+        "confirmed": 4,
+        "deaths": 0,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-09T00:00:00",
+        "confirmed": 4,
+        "deaths": 0,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-10T00:00:00",
+        "confirmed": 6,
+        "deaths": 0,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-11T00:00:00",
+        "confirmed": 9,
+        "deaths": 0,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-12T00:00:00",
+        "confirmed": 9,
+        "deaths": 0,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-13T00:00:00",
+        "confirmed": 10,
+        "deaths": 0,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-14T00:00:00",
+        "confirmed": 12,
+        "deaths": 0,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-15T00:00:00",
+        "confirmed": 13,
+        "deaths": 0,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-16T00:00:00",
+        "confirmed": 18,
+        "deaths": 0,
+        "recovered": 1
+      },
+      {
+        "date": "2020-03-17T00:00:00",
+        "confirmed": 22,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-18T00:00:00",
+        "confirmed": 29,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-19T00:00:00",
+        "confirmed": 53,
+        "deaths": 0,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-20T00:00:00",
+        "confirmed": 79,
+        "deaths": 1,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-21T00:00:00",
+        "confirmed": 104,
+        "deaths": 1,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-22T00:00:00",
+        "confirmed": 152,
+        "deaths": 2,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-23T00:00:00",
+        "confirmed": 235,
+        "deaths": 2,
+        "recovered": 2
+      },
+      {
+        "date": "2020-03-24T00:00:00",
+        "confirmed": 326,
+        "deaths": 5,
+        "recovered": 4
+      },
+      {
+        "date": "2020-03-25T00:00:00",
+        "confirmed": 401,
+        "deaths": 6,
+        "recovered": 4
+      },
+      {
+        "date": "2020-03-26T00:00:00",
+        "confirmed": 508,
+        "deaths": 8,
+        "recovered": 4
+      },
+      {
+        "date": "2020-03-27T00:00:00",
+        "confirmed": 665,
+        "deaths": 13,
+        "recovered": 4
+      },
+      {
+        "date": "2020-03-28T00:00:00",
+        "confirmed": 773,
+        "deaths": 15,
+        "recovered": 4
+      },
+      {
+        "date": "2020-03-29T00:00:00",
+        "confirmed": 919,
+        "deaths": 17,
+        "recovered": 4
+      },
+      {
+        "date": "2020-03-30T00:00:00",
+        "confirmed": 1158,
+        "deaths": 20,
+        "recovered": 4
+      },
+      {
+        "date": "2020-03-31T00:00:00",
+        "confirmed": 1289,
+        "deaths": 24,
+        "recovered": 4
+      },
+      {
+        "date": "2020-04-01T00:00:00",
+        "confirmed": 1413,
+        "deaths": 29,
+        "recovered": 3
+      },
+      {
+        "date": "2020-04-02T00:00:00",
+        "confirmed": 1598,
+        "deaths": 32,
+        "recovered": 3
+      },
+      {
+        "date": "2020-04-03T00:00:00",
+        "confirmed": 1769,
+        "deaths": 41,
+        "recovered": 3
+      },
+      {
+        "date": "2020-04-04T00:00:00",
+        "confirmed": 2019,
+        "deaths": 52,
+        "recovered": 3
+      },
+      {
+        "date": "2020-04-05T00:00:00",
+        "confirmed": 2019,
+        "deaths": 52,
+        "recovered": 3
+      }
+    ],
+    "breakdowns": [
+      {
+        "location": {
+          "long": -109.0753,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arizona",
+          "county": "Apache",
+          "isoCode": "US-AZ",
+          "lat": 36.9221
+        },
+        "totalConfirmedCases": 20,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -109.6896,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arizona",
+          "county": "Cochise",
+          "isoCode": "US-AZ",
+          "lat": 31.6858
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -111.1071,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arizona",
+          "county": "Coconino",
+          "isoCode": "US-AZ",
+          "lat": 36.592
+        },
+        "totalConfirmedCases": 147,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 10,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -111.3051,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arizona",
+          "county": "Gila",
+          "isoCode": "US-AZ",
+          "lat": 34.3199
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -109.6291,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arizona",
+          "county": "Graham",
+          "isoCode": "US-AZ",
+          "lat": 32.8138
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -109.3307,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arizona",
+          "county": "Greenlee",
+          "isoCode": "US-AZ",
+          "lat": 33.0531
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -114.4046,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arizona",
+          "county": "La Paz",
+          "isoCode": "US-AZ",
+          "lat": 33.9921
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -112.4291,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arizona",
+          "county": "Maricopa",
+          "isoCode": "US-AZ",
+          "lat": 33.2918
+        },
+        "totalConfirmedCases": 1171,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 28,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -113.6486,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arizona",
+          "county": "Mohave",
+          "isoCode": "US-AZ",
+          "lat": 35.4227
+        },
+        "totalConfirmedCases": 12,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -109.9593,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arizona",
+          "county": "Navajo",
+          "isoCode": "US-AZ",
+          "lat": 33.9965
+        },
+        "totalConfirmedCases": 177,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -111.6661,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arizona",
+          "county": "Pima",
+          "isoCode": "US-AZ",
+          "lat": 32.0575
+        },
+        "totalConfirmedCases": 326,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 11,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -111.2845,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arizona",
+          "county": "Pinal",
+          "isoCode": "US-AZ",
+          "lat": 32.8162
+        },
+        "totalConfirmedCases": 89,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 1,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -110.6426,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arizona",
+          "county": "Santa Cruz",
+          "isoCode": "US-AZ",
+          "lat": 31.6645
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -112.4913,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arizona",
+          "county": "Yavapai",
+          "isoCode": "US-AZ",
+          "lat": 35.2171
+        },
+        "totalConfirmedCases": 43,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -114.7067,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Arizona",
+          "county": "Yuma",
+          "isoCode": "US-AZ",
+          "lat": 32.6452
+        },
+        "totalConfirmedCases": 14,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      }
+    ]
+  }
+}

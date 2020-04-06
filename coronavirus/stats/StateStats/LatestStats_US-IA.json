@@ -1,0 +1,1593 @@
+{
+  "location": {
+    "long": -93.097702,
+    "countryOrRegion": "United States",
+    "provinceOrState": "Iowa",
+    "county": null,
+    "isoCode": "US-IA",
+    "lat": 41.878003
+  },
+  "updatedDateTime": "2020-04-05T17:46:09.8708521Z",
+  "stats": {
+    "totalConfirmedCases": 787,
+    "newlyConfirmedCases": 0,
+    "totalDeaths": 14,
+    "newDeaths": 0,
+    "totalRecoveredCases": 3,
+    "newlyRecoveredCases": 0,
+    "history": [
+      {
+        "date": "2020-01-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-30T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-01-31T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-03T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-04T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-05T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-06T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-07T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-08T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-09T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-10T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-11T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-12T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-13T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-14T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-15T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-16T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-17T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-18T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-19T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-20T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-21T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-22T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-23T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-24T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-25T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-26T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-27T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-28T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-02-29T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-01T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-02T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-03T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-04T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-05T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-06T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-07T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-08T00:00:00",
+        "confirmed": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-09T00:00:00",
+        "confirmed": 3,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-10T00:00:00",
+        "confirmed": 8,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-11T00:00:00",
+        "confirmed": 13,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-12T00:00:00",
+        "confirmed": 16,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-13T00:00:00",
+        "confirmed": 17,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-14T00:00:00",
+        "confirmed": 18,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-15T00:00:00",
+        "confirmed": 22,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-16T00:00:00",
+        "confirmed": 23,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-17T00:00:00",
+        "confirmed": 29,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-18T00:00:00",
+        "confirmed": 39,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-19T00:00:00",
+        "confirmed": 45,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-20T00:00:00",
+        "confirmed": 46,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-21T00:00:00",
+        "confirmed": 70,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-22T00:00:00",
+        "confirmed": 90,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-23T00:00:00",
+        "confirmed": 105,
+        "deaths": 0,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-24T00:00:00",
+        "confirmed": 125,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-25T00:00:00",
+        "confirmed": 146,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-26T00:00:00",
+        "confirmed": 179,
+        "deaths": 1,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-27T00:00:00",
+        "confirmed": 235,
+        "deaths": 3,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-28T00:00:00",
+        "confirmed": 298,
+        "deaths": 3,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-29T00:00:00",
+        "confirmed": 336,
+        "deaths": 4,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-30T00:00:00",
+        "confirmed": 424,
+        "deaths": 6,
+        "recovered": 0
+      },
+      {
+        "date": "2020-03-31T00:00:00",
+        "confirmed": 497,
+        "deaths": 7,
+        "recovered": 0
+      },
+      {
+        "date": "2020-04-01T00:00:00",
+        "confirmed": 552,
+        "deaths": 9,
+        "recovered": 3
+      },
+      {
+        "date": "2020-04-02T00:00:00",
+        "confirmed": 614,
+        "deaths": 11,
+        "recovered": 3
+      },
+      {
+        "date": "2020-04-03T00:00:00",
+        "confirmed": 700,
+        "deaths": 11,
+        "recovered": 3
+      },
+      {
+        "date": "2020-04-04T00:00:00",
+        "confirmed": 788,
+        "deaths": 14,
+        "recovered": 3
+      },
+      {
+        "date": "2020-04-05T00:00:00",
+        "confirmed": 787,
+        "deaths": 14,
+        "recovered": 3
+      }
+    ],
+    "breakdowns": [
+      {
+        "location": {
+          "long": -94.5601,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Adair",
+          "isoCode": "US-IA",
+          "lat": 41.29
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.296,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Allamakee",
+          "isoCode": "US-IA",
+          "lat": 43.2084
+        },
+        "totalConfirmedCases": 16,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.8871,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Appanoose",
+          "isoCode": "US-IA",
+          "lat": 40.8017
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.8811,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Audubon",
+          "isoCode": "US-IA",
+          "lat": 41.592
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.1804,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Benton",
+          "isoCode": "US-IA",
+          "lat": 41.9054
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.3522,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Black Hawk",
+          "isoCode": "US-IA",
+          "lat": 42.492
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.8176,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Boone",
+          "isoCode": "US-IA",
+          "lat": 41.9669
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.7295,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Buchanan",
+          "isoCode": "US-IA",
+          "lat": 42.6201
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.7957,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Butler",
+          "isoCode": "US-IA",
+          "lat": 42.7518
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.7837,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Carroll",
+          "isoCode": "US-IA",
+          "lat": 42.1225
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.9738,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Cedar",
+          "isoCode": "US-IA",
+          "lat": 41.7399
+        },
+        "totalConfirmedCases": 11,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.3871,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Cerro Gordo",
+          "isoCode": "US-IA",
+          "lat": 42.9442
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.3879,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Clayton",
+          "isoCode": "US-IA",
+          "lat": 42.9269
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.5448,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Clinton",
+          "isoCode": "US-IA",
+          "lat": 41.8227
+        },
+        "totalConfirmedCases": 15,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.1013,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Crawford",
+          "isoCode": "US-IA",
+          "lat": 42.0757
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.1963,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Dallas",
+          "isoCode": "US-IA",
+          "lat": 41.5905
+        },
+        "totalConfirmedCases": 33,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.3146,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Des Moines",
+          "isoCode": "US-IA",
+          "lat": 40.86
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.1744,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Dickinson",
+          "isoCode": "US-IA",
+          "lat": 43.3742
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.8448,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Dubuque",
+          "isoCode": "US-IA",
+          "lat": 42.4477
+        },
+        "totalConfirmedCases": 24,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.8864,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Fayette",
+          "isoCode": "US-IA",
+          "lat": 42.8636
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.307,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Guthrie",
+          "isoCode": "US-IA",
+          "lat": 41.8452
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.6076,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Hancock",
+          "isoCode": "US-IA",
+          "lat": 43.1864
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.0625,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Hardin",
+          "isoCode": "US-IA",
+          "lat": 42.2435
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.0274,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Harrison",
+          "isoCode": "US-IA",
+          "lat": 41.8082
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.401,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Henry",
+          "isoCode": "US-IA",
+          "lat": 40.9232
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.1859,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Iowa",
+          "isoCode": "US-IA",
+          "lat": 41.7557
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.5422,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Jackson",
+          "isoCode": "US-IA",
+          "lat": 42.3624
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.0794,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Jasper",
+          "isoCode": "US-IA",
+          "lat": 41.7008
+        },
+        "totalConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.5984,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Johnson",
+          "isoCode": "US-IA",
+          "lat": 41.6699
+        },
+        "totalConfirmedCases": 96,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.0903,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Jones",
+          "isoCode": "US-IA",
+          "lat": 42.1141
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.9533,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Keokuk",
+          "isoCode": "US-IA",
+          "lat": 41.3651
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.0892,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Kossuth",
+          "isoCode": "US-IA",
+          "lat": 43.0749
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.6209,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Linn",
+          "isoCode": "US-IA",
+          "lat": 42.1494
+        },
+        "totalConfirmedCases": 139,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 4,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.5371,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Mahaska",
+          "isoCode": "US-IA",
+          "lat": 41.2855
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.7749,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Marshall",
+          "isoCode": "US-IA",
+          "lat": 42.0067
+        },
+        "totalConfirmedCases": 10,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.966,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Monona",
+          "isoCode": "US-IA",
+          "lat": 42.0208
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.1029,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Montgomery",
+          "isoCode": "US-IA",
+          "lat": 40.981
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.0271,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Muscatine",
+          "isoCode": "US-IA",
+          "lat": 41.5898
+        },
+        "totalConfirmedCases": 27,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.2349,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Page",
+          "isoCode": "US-IA",
+          "lat": 40.6561
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.7946,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Polk",
+          "isoCode": "US-IA",
+          "lat": 41.6776
+        },
+        "totalConfirmedCases": 109,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.4778,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Pottawattamie",
+          "isoCode": "US-IA",
+          "lat": 41.3912
+        },
+        "totalConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.5274,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Poweshiek",
+          "isoCode": "US-IA",
+          "lat": 41.5833
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 1,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -90.6746,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Scott",
+          "isoCode": "US-IA",
+          "lat": 41.6915
+        },
+        "totalConfirmedCases": 38,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.4754,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Shelby",
+          "isoCode": "US-IA",
+          "lat": 41.7263
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.3216,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Sioux",
+          "isoCode": "US-IA",
+          "lat": 42.9749
+        },
+        "totalConfirmedCases": 7,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.6462,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Story",
+          "isoCode": "US-IA",
+          "lat": 42.1073
+        },
+        "totalConfirmedCases": 5,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.5746,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Tama",
+          "isoCode": "US-IA",
+          "lat": 41.9648
+        },
+        "totalConfirmedCases": 29,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.9005,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Taylor",
+          "isoCode": "US-IA",
+          "lat": 40.7324
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.8005,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Van Buren",
+          "isoCode": "US-IA",
+          "lat": 40.7011
+        },
+        "totalConfirmedCases": 6,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.2177,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Wapello",
+          "isoCode": "US-IA",
+          "lat": 40.9176
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.3862,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Warren",
+          "isoCode": "US-IA",
+          "lat": 41.3709
+        },
+        "totalConfirmedCases": 9,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.5367,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Washington",
+          "isoCode": "US-IA",
+          "lat": 41.2139
+        },
+        "totalConfirmedCases": 47,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 2,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -94.2955,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Webster",
+          "isoCode": "US-IA",
+          "lat": 42.3616
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.0463,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Winneshiek",
+          "isoCode": "US-IA",
+          "lat": 43.1014
+        },
+        "totalConfirmedCases": 4,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.3516,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Woodbury",
+          "isoCode": "US-IA",
+          "lat": 42.3975
+        },
+        "totalConfirmedCases": 8,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 3,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.5012,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Wright",
+          "isoCode": "US-IA",
+          "lat": 42.6593
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.784,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Mitchell",
+          "isoCode": "US-IA",
+          "lat": 43.4391
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.0367,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Clay",
+          "isoCode": "US-IA",
+          "lat": 43.0167
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -93.9295,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Madison",
+          "isoCode": "US-IA",
+          "lat": 41.227
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.3342,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Bremer",
+          "isoCode": "US-IA",
+          "lat": 42.669
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.5915,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Delaware",
+          "isoCode": "US-IA",
+          "lat": 42.4798
+        },
+        "totalConfirmedCases": 0,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.0138,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Jefferson",
+          "isoCode": "US-IA",
+          "lat": 41.0543
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.1881,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Louisa",
+          "isoCode": "US-IA",
+          "lat": 41.1772
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.4351,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Lyon",
+          "isoCode": "US-IA",
+          "lat": 43.3093
+        },
+        "totalConfirmedCases": 2,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -96.2666,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Plymouth",
+          "isoCode": "US-IA",
+          "lat": 42.811
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.7995,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Mills",
+          "isoCode": "US-IA",
+          "lat": 41.018
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.4393,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Howard",
+          "isoCode": "US-IA",
+          "lat": 43.2459
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -92.9265,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Grundy",
+          "isoCode": "US-IA",
+          "lat": 42.4338
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -91.5165,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "Lee",
+          "isoCode": "US-IA",
+          "lat": 40.7679
+        },
+        "totalConfirmedCases": 1,
+        "newlyConfirmedCases": 0,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      },
+      {
+        "location": {
+          "long": -95.6553,
+          "countryOrRegion": "United States",
+          "provinceOrState": "Iowa",
+          "county": "O'Brien",
+          "isoCode": "US-IA",
+          "lat": 43.1814
+        },
+        "totalConfirmedCases": 3,
+        "newlyConfirmedCases": 3,
+        "totalDeaths": 0,
+        "newDeaths": 0,
+        "totalRecoveredCases": 0,
+        "newlyRecoveredCases": 0
+      }
+    ]
+  }
+}
