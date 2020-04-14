@@ -1,0 +1,8 @@
+{
+  "DataFolder": "D:\\Data\\coronavirus\\",
+  "APIKey": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "DataSource": "SERVER2019\\SQLSERVER2019DEV",
+  "InitialCatalog": "Covid-19_Stats",
+  "UserID": "psu_Covid19_Reader",
+  "Password": "Corona_2020"
+} 
