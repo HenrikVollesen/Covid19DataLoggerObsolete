@@ -2,7 +2,7 @@
   "profiles": {
     "Covid19DataLogger": {
       "commandName": "Project",
-      "commandLineArgs": "country_state"
+      "commandLineArgs": "global"
     }
   }
 }

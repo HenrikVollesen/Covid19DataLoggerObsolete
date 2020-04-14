@@ -13,7 +13,7 @@ namespace Covid19DataLogger
     {
         //The API key will be read from the local Settings file. 
         //To use this program, you must get your own API key from https://developer.smartable.ai/
-        private string APIKey = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"; 
+        private string APIKey = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
         private RestClient client = new RestClient("https://api.smartable.ai/coronavirus/stats/");
         //https://api.smartable.ai/coronavirus/stats/{location}
@@ -47,17 +47,27 @@ namespace Covid19DataLogger
             string UserIDFile;
             string PasswordFile;
 
+
+            if (!File.Exists(@"Settings.json"))
+            {
+                Console.WriteLine("Settings.json not found or invalid! Press any key to stop...");
+                Console.ReadKey();
+                Environment.Exit(0);
+            }
+
             Settings = new RestResponse()
             {
                 Content = File.ReadAllText(@"Settings.json")
             };
+
             jd = new JsonDeserializer();
             dyn1 = jd.Deserialize<dynamic>(Settings);
             dyn2 = dyn1["DataFolder"];
             DataFolder = dyn2;
             if (!Directory.Exists(DataFolder))
             {
-                Console.WriteLine("Path: " + DataFolder + " does not exist!");
+                Console.WriteLine("Path: " + DataFolder + " does not exist! Press any key to stop...");
+                Console.ReadKey();
                 Environment.Exit(0);
             }
             Filepath_CountryStats = DataFolder + @"stats\CountryStats\";
@@ -126,7 +136,7 @@ namespace Covid19DataLogger
                 {
                     Console.WriteLine("Logtype: " + arg0);
                     if (Get)
-                        theLogger.Get_CountryStats(); 
+                        theLogger.Get_CountryStats();
                     theLogger.Save_CountryStats();
                 }
                 else if (arg0 == "state")
@@ -207,7 +217,7 @@ namespace Covid19DataLogger
                 string isoCode = dyn5["isoCode"];
                 string Country = dyn5["countryOrRegion"];
 
-                if ( (isoCode == null) || (Country == null) )
+                if ((isoCode == null) || (Country == null))
                     continue;
 
                 long confirmed = dyn4["totalConfirmedCases"];
