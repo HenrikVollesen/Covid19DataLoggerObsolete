@@ -6,9 +6,12 @@ using Microsoft.Data.SqlClient;
 using System.Data;
 using System;
 using System.Diagnostics;
+using System.Threading;
 
 namespace Covid19DataLogger
 {
+    enum LogType { GLOBAL, COUNTRY, STATE, COUNTRY_STATE, UNKNOWN };
+
     class ProgramDataLogger
     {
         //The API key will be read from the local Settings file. 
@@ -30,6 +33,8 @@ namespace Covid19DataLogger
         private string Filepath_StateStats;
         private string Filename_Stats = "LatestStats_";
 
+        int Delay = 30000;
+
         //private string filepathNews = DataFolder + @"news";
         //private string jsonContentsNews;
 
@@ -50,7 +55,7 @@ namespace Covid19DataLogger
 
             if (!File.Exists(@"Settings.json"))
             {
-                Console.WriteLine("Settings.json not found or invalid! Press any key to stop...");
+                Console.WriteLine("Settings.json not found in .exe folder or invalid! Press any key to stop...");
                 Console.ReadKey();
                 Environment.Exit(0);
             }
@@ -114,60 +119,98 @@ namespace Covid19DataLogger
                 Console.WriteLine("Covid19DataLogger (c) 2020\n");
                 string arg0 = args[0].ToLower().Trim();
 
-                bool Get = true;
+                LogType Log_Type = LogType.UNKNOWN;
+                int Action = 0;
 
                 if (args.Length > 1)
                 {
                     string arg1 = args[1].ToLower().Trim();
                     if (arg1 == "-storeonly")
-                    {
-                        Get = false;
-                    }
+                        Action = 1;
+                    else if (arg1 == "-noreplace")
+                        Action = 2;
                 }
 
                 if (arg0 == "global")
-                {
-                    Console.WriteLine("Logtype: " + arg0);
-                    if (Get)
-                        theLogger.Get_GlobalStats();
-                    theLogger.Save_GlobalStats();
-                }
+                    Log_Type = LogType.GLOBAL;
                 else if (arg0 == "country")
-                {
-                    Console.WriteLine("Logtype: " + arg0);
-                    if (Get)
-                        theLogger.Get_CountryStats();
-                    theLogger.Save_CountryStats();
-                }
+                    Log_Type = LogType.COUNTRY;
                 else if (arg0 == "state")
-                {
-                    Console.WriteLine("Logtype: " + arg0);
-                    if (Get)
-                        theLogger.Get_StateStats();
-                    theLogger.Save_StateStats();
-                }
+                    Log_Type = LogType.STATE;
                 else if (arg0 == "country_state")
+                    Log_Type = LogType.COUNTRY_STATE;
+
+                if (Log_Type == LogType.UNKNOWN)
+                    Console.WriteLine("Unknown command: " + arg0);
+                else
                 {
                     Console.WriteLine("Logtype: " + arg0);
-                    if (Get)
-                        theLogger.Get_CountryStats();
-                    theLogger.Save_CountryStats();
-                    if (Get)
-                        theLogger.Get_StateStats();
-                    theLogger.Save_StateStats();
+                    theLogger.Get_Stats(Log_Type, Action);
+                    theLogger.Save_Stats(Log_Type);
                 }
-                else
-                    Console.WriteLine("Unknown command: " + arg0);
             }
             else
             {
                 Console.WriteLine("No task defined.\n");
-                Console.WriteLine("Usage: Covid19DataLogger ( global | country | state | country_state ) [ -storeonly ] ");
+                Console.WriteLine("Usage: Covid19DataLogger ( global | country | state | country_state ) [ -storeonly | -noreplace ] ");
             }
         }
 
-        private void Get_GlobalStats()
+        private void Get_Stats(LogType ltype, int action)
         {
+            switch (ltype)
+            {
+                case LogType.GLOBAL:
+                    Get_GlobalStats(action);
+                    break;
+                case LogType.COUNTRY:
+                    Get_CountryStats(action);
+                    break;
+                case LogType.STATE:
+                    Get_StateStats(action);
+                    break;
+                case LogType.COUNTRY_STATE:
+                    Get_CountryStats(action);
+                    Get_StateStats(action);
+                    break;
+                default:
+
+                    break;
+            }
+        }
+
+        private void Save_Stats(LogType ltype)
+        {
+            switch (ltype)
+            {
+                case LogType.GLOBAL:
+                    Save_GlobalStats();
+                    break;
+                case LogType.COUNTRY:
+                    Save_CountryStats();
+                    break;
+                case LogType.STATE:
+                    Save_StateStats();
+                    break;
+                case LogType.COUNTRY_STATE:
+                    Save_CountryStats();
+                    Save_StateStats();
+                    break;
+                default:
+
+                    break;
+            }
+        }
+        private void Get_GlobalStats(int action)
+        {
+            if (action == 1)
+                return;
+            else if (action == 2)
+            {
+                if (File.Exists(Filepath_GlobalStats))
+                    return;
+            }
+
             string jsonContentsStatsGlobal;
 
             request = new RestRequest("global/");
@@ -235,26 +278,21 @@ namespace Covid19DataLogger
                 else
                     SaveStatData(dt, isoCode, confirmed, deaths, recovered, (i == 0), conn);
 
-                /*
-                using SqlCommand cmd1 = new SqlCommand("SELECT COUNT(*) FROM " + DimGeoRegionTable + " WHERE [isoCode] = N'" + isoCode + "' AND GeoRegionTypeId = 4", conn)
-                {
-                    CommandType = CommandType.Text
-                };
-                cmd1.Parameters.AddWithValue("@isoCode", isoCode);
-                int count1 = (int)cmd1.ExecuteScalar();
-
-                if (count1 > 0)
-                {
-                    SaveStatData(dt, isoCode, confirmed, deaths, recovered, (i == 0), conn);
-                }
-                */
             }
             conn.Close();
         }
 
 
-        private void Get_CountryStats()
+        private void Get_CountryStats(int action)
         {
+            bool CheckFile = false;
+            if (action == 1)
+                return;
+            else if (action == 2)
+            {
+                CheckFile = true;
+            }
+
             string jsonContentsStatsCountry;
             SqlConnection conn = new SqlConnection(sConnB.ConnectionString);
             conn.Open();
@@ -271,21 +309,34 @@ namespace Covid19DataLogger
                     while (isoCodes.Read())
                     {
                         string isoCode = isoCodes.GetString(0).Trim();
+                        string jsonpath = path + isoCode + ".json";
+                        if (CheckFile)
+                        {
+                            if (File.Exists(Filepath_GlobalStats))
+                                return;
+                        }
                         request = new RestRequest(isoCode + "/");
                         response_Stats = client.Execute<RootObject_Stats>(request);
                         jsonContentsStatsCountry = response_Stats.Content;
-                        string jsonpath = path + isoCode + ".json";
                         Console.WriteLine("Saving file: " + jsonpath);
                         File.WriteAllText(jsonpath, jsonContentsStatsCountry);
-
+                        Thread.Sleep(Delay);
                     }
                 }
             }
             conn.Close();
         }
 
-        private void Get_StateStats()
+        private void Get_StateStats(int action)
         {
+            bool CheckFile = false;
+            if (action == 1)
+                return;
+            else if (action == 2)
+            {
+                CheckFile = true;
+            }
+
             string jsonContentsStatsState;
             SqlConnection conn = new SqlConnection(sConnB.ConnectionString);
             conn.Open();
@@ -302,13 +353,18 @@ namespace Covid19DataLogger
                     while (isoCodes.Read())
                     {
                         string isoCode = isoCodes.GetString(0).Trim();
+                        string jsonpath = path + isoCode + ".json";
+                        if (CheckFile)
+                        {
+                            if (File.Exists(Filepath_GlobalStats))
+                                return;
+                        }
                         request = new RestRequest(isoCode + "/");
                         response_Stats = client.Execute<RootObject_Stats>(request);
                         jsonContentsStatsState = response_Stats.Content;
-                        string jsonpath = path + isoCode + ".json";
                         Console.WriteLine("Saving file: " + jsonpath);
                         File.WriteAllText(jsonpath, jsonContentsStatsState);
-
+                        Thread.Sleep(Delay);
                     }
                 }
             }
