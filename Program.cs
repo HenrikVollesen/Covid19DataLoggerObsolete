@@ -364,7 +364,11 @@ namespace Covid19DataLogger
             }
             conn.Close();
         }
-
+//        var client = new RestClient("https://rapidapi.p.rapidapi.com/stats/v1/US/");
+//        var request = new RestRequest(Method.GET);
+//        request.AddHeader("x-rapidapi-host", "coronavirus-smartable.p.rapidapi.com");
+//request.AddHeader("x-rapidapi-key", "22a317b985msh249bce487c7aa57p18909fjsn918b465d2071");
+//IRestResponse response = client.Execute(request);
         //private void Get_CountryStats(int action)
         //{
         //    bool CheckFile = false;
