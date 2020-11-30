@@ -2,7 +2,7 @@
   "profiles": {
     "Covid19DataLogger": {
       "commandName": "Project",
-      "commandLineArgs": "country_state -settingsfile \"D:\\Data\\coronavirus\\Covid19DataLogger\\Settings.json\" "
+      "commandLineArgs": "country_state -noreplace -settingsfile \"D:\\Data\\coronavirus\\Covid19DataLogger\\SettingsNew.json\" "
     }
   }
 }

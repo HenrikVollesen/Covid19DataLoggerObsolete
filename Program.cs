@@ -7,6 +7,8 @@ using System.Data;
 using System;
 using System.Diagnostics;
 using System.Threading;
+using System.Collections;
+using System.Collections.Generic;
 
 namespace Covid19DataLogger
 {
@@ -18,13 +20,15 @@ namespace Covid19DataLogger
         //To use this program, you must get your own API key from https://developer.smartable.ai/
         private string APIKey = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
-        private RestClient client = new RestClient("https://api.smartable.ai/coronavirus/stats/");
-        //https://api.smartable.ai/coronavirus/stats/{location}
+        /*private RestClient client = new RestClient("https://api.smartable.ai/coronavirus/stats/");
+        //https://api.smartable.ai/coronavirus/stats/{location}*/
+        private RestClient client = new RestClient("https://rapidapi.p.rapidapi.com/stats/v1/");
 
         private RestRequest request = null;
         private IRestResponse<RootObject_Stats> response_Stats = null;
 
-        private SqlConnectionStringBuilder sConnB;
+        //private SqlConnectionStringBuilder sConnB;
+        private List<SqlConnectionStringBuilder> ConnectionStrings = new List<SqlConnectionStringBuilder>();
 
         private string DataFolder = @"D:\Data\coronavirus\"; // Base folder for storage of coronavirus data
 
@@ -35,7 +39,7 @@ namespace Covid19DataLogger
 
         private string SettingsPath = @"Settings.json";
 
-        int Delay = 10000;
+        int Delay = 2000;
 
         //private string filepathNews = DataFolder + @"news";
         //private string jsonContentsNews;
@@ -120,6 +124,7 @@ namespace Covid19DataLogger
             JsonDeserializer jd;
             dynamic dyn1;
             dynamic dyn2;
+            JsonArray al;
             string DataSourceFile;
             string InitialCatalogFile;
             string UserIDFile;
@@ -154,27 +159,55 @@ namespace Covid19DataLogger
             }
             Filepath_GlobalStats = DataFolder + @"stats\LatestStats_Global.json";
 
+            //dyn2 = dyn1["APIKey"];
+            //APIKey = dyn2;
+            //dyn2 = dyn1["DataSource"];
+            //DataSourceFile = dyn2;
+            //dyn2 = dyn1["InitialCatalog"];
+            //InitialCatalogFile = dyn2;
+            //dyn2 = dyn1["UserID"];
+            //UserIDFile = dyn2;
+            //dyn2 = dyn1["Password"];
+            //PasswordFile = dyn2;
+
             dyn2 = dyn1["APIKey"];
             APIKey = dyn2;
-            dyn2 = dyn1["DataSource"];
-            DataSourceFile = dyn2;
-            dyn2 = dyn1["InitialCatalog"];
-            InitialCatalogFile = dyn2;
-            dyn2 = dyn1["UserID"];
-            UserIDFile = dyn2;
-            dyn2 = dyn1["Password"];
-            PasswordFile = dyn2;
-
-
             client.AddDefaultHeader("Subscription-Key", APIKey);
 
-            sConnB = new SqlConnectionStringBuilder()
+            dyn2 = dyn1["DataTargets"];
+            al = dyn2;
+            for (int i=0;i<al.Count;i++)
             {
-                DataSource = DataSourceFile,
-                InitialCatalog = InitialCatalogFile,
-                UserID = UserIDFile,
-                Password = PasswordFile
-            };
+                dyn2 = al[i];
+                DataSourceFile = dyn2["DataSource"];
+                InitialCatalogFile = dyn2["InitialCatalog"];
+                UserIDFile = dyn2["UserID"];
+                PasswordFile = dyn2["Password"];
+                SqlConnectionStringBuilder scb = new SqlConnectionStringBuilder()
+                {
+                    DataSource = DataSourceFile,
+                    InitialCatalog = InitialCatalogFile,
+                    UserID = UserIDFile,
+                    Password = PasswordFile
+                };
+                ConnectionStrings.Add(scb);
+            }
+            //DataSourceFile = dyn2;
+            //dyn2 = dyn1["DataTargets"];
+            //InitialCatalogFile = dyn2;
+            //dyn2 = dyn1["UserID"];
+            //UserIDFile = dyn2;
+            //dyn2 = dyn1["Password"];
+            //PasswordFile = dyn2;
+
+
+            //sConnB = new SqlConnectionStringBuilder()
+            //{
+            //    DataSource = DataSourceFile,
+            //    InitialCatalog = InitialCatalogFile,
+            //    UserID = UserIDFile,
+            //    Password = PasswordFile
+            //};
         }
 
         private void Get_Stats(LogType ltype, int action)
@@ -231,68 +264,78 @@ namespace Covid19DataLogger
 
         private void Save_GlobalStats()
         {
-            IRestResponse Global_Stats;
-            JsonDeserializer jd;
-            dynamic dyn1;
-            dynamic dyn2;
-            dynamic dyn3;
-            dynamic dyn4;
-            dynamic dyn5;
-            JsonArray al;
+            /* Obsolete? */
 
-            bool SaveCountry = false;
+            //IRestResponse Global_Stats;
+            //JsonDeserializer jd;
+            //dynamic dyn1;
+            //dynamic dyn2;
+            //dynamic dyn3;
+            //dynamic dyn4;
+            //dynamic dyn5;
+            //JsonArray al;
 
-            Console.WriteLine("Storing data from file: " + Filepath_GlobalStats);
-            Global_Stats = new RestResponse()
-            {
-                Content = File.ReadAllText(Filepath_GlobalStats)
-            };
-            jd = new JsonDeserializer();
-            dyn1 = jd.Deserialize<dynamic>(Global_Stats);
-            dyn2 = dyn1["stats"];
-            dyn3 = dyn2["history"];
-            al = (JsonArray)dyn3;
-            if (al.Count == 0)
-                return;
-            dyn3 = al[^1];
-            string dt = dyn3["date"];
+            //bool SaveCountry = false;
 
-            SqlConnection conn = new SqlConnection(sConnB.ConnectionString);
-            conn.Open();
+            //Console.WriteLine("Storing data from file: " + Filepath_GlobalStats);
+            //Global_Stats = new RestResponse()
+            //{
+            //    Content = File.ReadAllText(Filepath_GlobalStats)
+            //};
+            //jd = new JsonDeserializer();
+            //dyn1 = jd.Deserialize<dynamic>(Global_Stats);
+            //dyn2 = dyn1["stats"];
+            //dyn3 = dyn2["history"];
+            //al = (JsonArray)dyn3;
+            //if (al.Count == 0)
+            //    return;
+            //dyn3 = al[^1];
+            //string dt = dyn3["date"];
 
-            dyn3 = dyn2["breakdowns"];
-            al = (JsonArray)dyn3;
-            for (int i = 0; i < al.Count; i++)
-            {
-                dyn4 = al[i];
-                dyn5 = dyn4["location"];
-                string isoCode = dyn5["isoCode"];
-                string Country = dyn5["countryOrRegion"];
+            //SqlConnection conn = new SqlConnection(sConnB.ConnectionString);
+            //conn.Open();
 
-                if ((isoCode == null) || (Country == null))
-                    continue;
+            //dyn3 = dyn2["breakdowns"];
+            //al = (JsonArray)dyn3;
+            //for (int i = 0; i < al.Count; i++)
+            //{
+            //    dyn4 = al[i];
+            //    dyn5 = dyn4["location"];
+            //    string isoCode = dyn5["isoCode"];
+            //    string Country = dyn5["countryOrRegion"];
 
-                long confirmed = dyn4["totalConfirmedCases"];
-                long deaths = dyn4["totalDeaths"];
-                long recovered = dyn4["totalRecoveredCases"];
+            //    if ((isoCode == null) || (Country == null))
+            //        continue;
 
-                if (SaveCountry)
-                {
-                    using (SqlCommand cmd2 = new SqlCommand("UPDATE DimLocation SET IsCovidCountry = 1 WHERE Alpha_2_code = N'" + isoCode + "'", conn))
-                    {
-                        cmd2.CommandType = CommandType.Text;
-                        int rowsAffected = cmd2.ExecuteNonQuery();
-                    }
-                }
-                else
-                    SaveStatData(dt, isoCode, confirmed, deaths, recovered, (i == 0), conn);
+            //    long confirmed = dyn4["totalConfirmedCases"];
+            //    long deaths = dyn4["totalDeaths"];
+            //    long recovered = dyn4["totalRecoveredCases"];
 
-            }
-            conn.Close();
+            //    if (SaveCountry)
+            //    {
+            //        using (SqlCommand cmd2 = new SqlCommand("UPDATE DimLocation SET IsCovidCountry = 1 WHERE Alpha_2_code = N'" + isoCode + "'", conn))
+            //        {
+            //            cmd2.CommandType = CommandType.Text;
+            //            int rowsAffected = cmd2.ExecuteNonQuery();
+            //        }
+            //    }
+            //    else
+            //        SaveStatData(dt, isoCode, confirmed, deaths, recovered, (i == 0), conn);
+
+            //}
+            //conn.Close();
         }
 
         private void Get_CountryOrStateStats(LogType ltype, int action)
         {
+            //private RestClient client = new RestClient("https://api.smartable.ai/coronavirus/stats/");
+            //var client = new RestClient("https://rapidapi.p.rapidapi.com/stats/v1/");
+            //    var request = new RestRequest(Method.GET);
+            //    request.AddHeader("x-rapidapi-host", "coronavirus-smartable.p.rapidapi.com");
+            //    request.AddHeader("x-rapidapi-key", "22a317b985msh249bce487c7aa57p18909fjsn918b465d2071");
+            //    IRestResponse response = client.Execute(request);
+            //    string jsonContents = response.Content;
+
             bool CheckFile = false;
             if (action == 1)
                 return;
@@ -334,7 +377,10 @@ namespace Covid19DataLogger
             else
                 return;
 
-            SqlConnection conn = new SqlConnection(sConnB.ConnectionString);
+            if (ConnectionStrings.Count == 0)
+                return;
+
+            SqlConnection conn = new SqlConnection(ConnectionStrings[0].ConnectionString);
             conn.Open();
 
             using (SqlCommand cmd = new SqlCommand(Command, conn))
@@ -354,8 +400,16 @@ namespace Covid19DataLogger
                         }
                         string jsonContents;
                         request = new RestRequest(isoCode + "/");
+                        request.AddHeader("x-rapidapi-host", "coronavirus-smartable.p.rapidapi.com");
+                        request.AddHeader("x-rapidapi-key", "22a317b985msh249bce487c7aa57p18909fjsn918b465d2071");
                         response_Stats = client.Execute<RootObject_Stats>(request);
                         jsonContents = response_Stats.Content;
+                        int bad = jsonContents.IndexOf("exceeded");
+                        if (bad > -1)
+                        {
+                            Console.WriteLine("Number of allowed daily reads exceeded. Gonna close for today...");
+                            Environment.Exit(0);
+                        }
                         Console.WriteLine("Saving file: " + jsonpath);
                         File.WriteAllText(jsonpath, jsonContents);
                         Thread.Sleep(Delay);
@@ -364,113 +418,25 @@ namespace Covid19DataLogger
             }
             conn.Close();
         }
-//        var client = new RestClient("https://rapidapi.p.rapidapi.com/stats/v1/US/");
-//        var request = new RestRequest(Method.GET);
-//        request.AddHeader("x-rapidapi-host", "coronavirus-smartable.p.rapidapi.com");
-//request.AddHeader("x-rapidapi-key", "22a317b985msh249bce487c7aa57p18909fjsn918b465d2071");
-//IRestResponse response = client.Execute(request);
-        //private void Get_CountryStats(int action)
-        //{
-        //    bool CheckFile = false;
-        //    if (action == 1)
-        //        return;
-        //    else if (action == 2)
-        //    {
-        //        CheckFile = true;
-        //    }
-
-        //    string jsonContentsStatsCountry;
-        //    SqlConnection conn = new SqlConnection(sConnB.ConnectionString);
-        //    conn.Open();
-
-        //    string Command = "SELECT Alpha_2_code FROM GetAPICountries()";
-
-        //    using (SqlCommand cmd = new SqlCommand(Command, conn))
-        //    {
-        //        string path = Filepath_CountryStats + Filename_Stats;
-        //        SqlDataReader isoCodes = cmd.ExecuteReader();
-
-        //        if (isoCodes.HasRows)
-        //        {
-        //            while (isoCodes.Read())
-        //            {
-        //                string isoCode = isoCodes.GetString(0).Trim();
-        //                string jsonpath = path + isoCode + ".json";
-        //                if (CheckFile)
-        //                {
-        //                    if (File.Exists(Filepath_GlobalStats))
-        //                        continue;
-        //                }
-        //                request = new RestRequest(isoCode + "/");
-        //                response_Stats = client.Execute<RootObject_Stats>(request);
-        //                jsonContentsStatsCountry = response_Stats.Content;
-        //                Console.WriteLine("Saving file: " + jsonpath);
-        //                File.WriteAllText(jsonpath, jsonContentsStatsCountry);
-        //                Thread.Sleep(Delay);
-        //            }
-        //        }
-        //    }
-        //    conn.Close();
-        //}
-
-        //private void Get_StateStats(int action)
-        //{
-        //    bool CheckFile = false;
-        //    if (action == 1)
-        //        return;
-        //    else if (action == 2)
-        //    {
-        //        CheckFile = true;
-        //    }
-
-        //    string jsonContentsStatsState;
-        //    SqlConnection conn = new SqlConnection(sConnB.ConnectionString);
-        //    conn.Open();
-
-        //    string Command = "SELECT Alpha_2_code FROM GetAPIStates()";
-
-        //    using (SqlCommand cmd = new SqlCommand(Command, conn))
-        //    {
-        //        string path = Filepath_StateStats + Filename_Stats;
-        //        SqlDataReader isoCodes = cmd.ExecuteReader();
-
-        //        if (isoCodes.HasRows)
-        //        {
-        //            while (isoCodes.Read())
-        //            {
-        //                string isoCode = isoCodes.GetString(0).Trim();
-        //                string jsonpath = path + isoCode + ".json";
-        //                if (CheckFile)
-        //                {
-        //                    if (File.Exists(Filepath_GlobalStats))
-        //                        return;
-        //                }
-        //                request = new RestRequest(isoCode + "/");
-        //                response_Stats = client.Execute<RootObject_Stats>(request);
-        //                jsonContentsStatsState = response_Stats.Content;
-        //                Console.WriteLine("Saving file: " + jsonpath);
-        //                File.WriteAllText(jsonpath, jsonContentsStatsState);
-        //                Thread.Sleep(Delay);
-        //            }
-        //        }
-        //    }
-        //    conn.Close();
-        //}
 
         private void Save_CountryOrStateStats(LogType ltype)
         {
             if (ltype == LogType.COUNTRY) 
             {
                 Save_AreaStats(Filepath_CountryStats);
+                ClearFolder(Filepath_CountryStats);
             }
             else if (ltype == LogType.STATE)
             {
                 Save_AreaStats(Filepath_StateStats);
+                ClearFolder(Filepath_StateStats);
             }
             else if (ltype == LogType.COUNTRY_STATE)
             {
                 Save_AreaStats(Filepath_CountryStats);
                 Save_AreaStats(Filepath_StateStats);
+                ClearFolder(Filepath_CountryStats);
+                ClearFolder(Filepath_StateStats);
             }
         }
 
@@ -485,9 +451,6 @@ namespace Covid19DataLogger
             dynamic dyn3;
             dynamic dyn4;
             JsonArray al;
-
-            SqlConnection conn = new SqlConnection(sConnB.ConnectionString);
-            conn.Open();
 
             foreach (string FileName in JsonFiles)
             {
@@ -512,24 +475,26 @@ namespace Covid19DataLogger
                     long confirmed = dyn4["confirmed"];
                     long deaths = dyn4["deaths"];
                     long recovered = dyn4["recovered"];
-                    SaveStatData(dt, isoCode, confirmed, deaths, recovered, SaveDate, conn);
+                    for (int j = 0; j < ConnectionStrings.Count; j++)
+                    {
+                        SqlConnection conn = new SqlConnection(ConnectionStrings[j].ConnectionString);
+                        conn.Open();
+                        SaveStatData(dt, isoCode, confirmed, deaths, recovered, SaveDate, conn);
+                        conn.Close();
+                    }
                 }
                 SaveDate = false;
             }
-            conn.Close();
         }
-
 
         private void SaveStatData(string dt, string isoCode, long confirmed, long deaths, long recovered, bool SaveDate, SqlConnection conn)
         {
             if (SaveDate)
             {
-                using (SqlCommand cmd2 = new SqlCommand("Save_Date", conn))
-                {
-                    cmd2.CommandType = CommandType.StoredProcedure;
-                    cmd2.Parameters.AddWithValue("@date", dt);
-                    int rowsAffected = cmd2.ExecuteNonQuery();
-                }
+                using SqlCommand cmd2 = new SqlCommand("Save_Date", conn);
+                cmd2.CommandType = CommandType.StoredProcedure;
+                cmd2.Parameters.AddWithValue("@date", dt);
+                int rowsAffected = cmd2.ExecuteNonQuery();
             }
 
             using (SqlCommand cmd2 = new SqlCommand("Save_DayStat", conn))
@@ -542,6 +507,15 @@ namespace Covid19DataLogger
                 cmd2.Parameters.AddWithValue("@recovered", recovered);
                 int rowsAffected = cmd2.ExecuteNonQuery();
             }
+        }
+
+        private void ClearFolder(string Foldername)
+        {
+            if (!Directory.Exists(Foldername))
+                return;
+            string[] theLot = Directory.GetFiles(Foldername);
+            foreach (string f in theLot)
+                File.Delete(f);
         }
     }
 }
