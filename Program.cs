@@ -12,6 +12,14 @@ using System.Collections.Generic;
 
 namespace Covid19DataLogger
 {
+    /* The LogType enum reflects the way the API works. You can read a GLOBAL file with all countries and regions (states, provinces,...),
+     * but they only have data from the last day. Or you can read a REGION file with all historical data.
+     * In this program, we read data from 122 countries. For USA, China, Canada and Australia, data from each state/province/territory
+     * are also logged - 100 in total. Each COUNTRY or STATE is defined by its unique Alpha_2_code.
+     * COUNTRY: We only log from countries. STATE: We only log from state/province/territory. COUNTRY_STATE: We log from both
+     * 
+     * Note 2020-12-01: GLOBAL is obsolete now
+     * */
     enum LogType { GLOBAL, COUNTRY, STATE, COUNTRY_STATE, UNKNOWN };
 
     class ProgramDataLogger
@@ -38,12 +46,8 @@ namespace Covid19DataLogger
         private string Filename_Stats = "LatestStats_";
 
         private string SettingsPath = @"Settings.json";
+        readonly int Delay = 2000;
 
-        int Delay = 2000;
-
-        //private string filepathNews = DataFolder + @"news";
-        //private string jsonContentsNews;
-        //"D:\Data\coronavirus\Covid19DataLogger for Hildur\Settings.json"
         static void Main(string[] args)
         {
             LogType Log_Type = LogType.UNKNOWN;
@@ -53,6 +57,11 @@ namespace Covid19DataLogger
                 Console.WriteLine("Covid19DataLogger (c) 2020\n");
                 string arg0 = args[0].ToLower().Trim();
 
+                /* Command line arguments might look like:
+                 * 
+                 country_state -noreplace -settingsfile "D:\Data\coronavirus\Covid19DataLogger\SettingsNew.json" 
+
+                */
                 if (arg0 == "global")
                     Log_Type = LogType.GLOBAL;
                 else if (arg0 == "country")
@@ -95,6 +104,7 @@ namespace Covid19DataLogger
                         }
                     }
 
+                    // Settings path must exist
                     if (!File.Exists(SettingsPath))
                     {
                         Console.WriteLine("Settings file: " + SettingsPath + " not found or invalid! Press any key to stop...");
@@ -104,6 +114,8 @@ namespace Covid19DataLogger
 
                     ProgramDataLogger theLogger = new ProgramDataLogger(SettingsPath);
                     Console.WriteLine("Logtype: " + arg0);
+
+                    // Basically, just get the statistics, then save them in the DB
                     theLogger.Get_Stats(Log_Type, Action);
                     theLogger.Save_Stats(Log_Type);
                 }
@@ -118,7 +130,7 @@ namespace Covid19DataLogger
         public ProgramDataLogger(string SettingsPath)
         {
             /*
-             * Read settings from Settings.json
+             * Read settings from a settings json file specified in the command line
             */
             IRestResponse Settings;
             JsonDeserializer jd;
@@ -141,6 +153,8 @@ namespace Covid19DataLogger
             dyn1 = jd.Deserialize<dynamic>(Settings);
             dyn2 = dyn1["DataFolder"];
             DataFolder = dyn2;
+
+            // Data Folder base path must exist
             if (!Directory.Exists(DataFolder))
             {
                 Console.WriteLine("Path: " + DataFolder + " does not exist! Press any key to stop...");
@@ -159,22 +173,14 @@ namespace Covid19DataLogger
             }
             Filepath_GlobalStats = DataFolder + @"stats\LatestStats_Global.json";
 
-            //dyn2 = dyn1["APIKey"];
-            //APIKey = dyn2;
-            //dyn2 = dyn1["DataSource"];
-            //DataSourceFile = dyn2;
-            //dyn2 = dyn1["InitialCatalog"];
-            //InitialCatalogFile = dyn2;
-            //dyn2 = dyn1["UserID"];
-            //UserIDFile = dyn2;
-            //dyn2 = dyn1["Password"];
-            //PasswordFile = dyn2;
-
+            // Read api key from settings. Must be a valid subscription key
             dyn2 = dyn1["APIKey"];
             APIKey = dyn2;
             client.AddDefaultHeader("Subscription-Key", APIKey);
 
-            dyn2 = dyn1["DataTargets"];
+            // DB connections: Since data could be stored in more that one DB, it was decided to make an array of
+            // SqlConnectionStringBuilder objects in the DataBases field
+            dyn2 = dyn1["DataBases"];
             al = dyn2;
             for (int i=0;i<al.Count;i++)
             {
@@ -192,22 +198,6 @@ namespace Covid19DataLogger
                 };
                 ConnectionStrings.Add(scb);
             }
-            //DataSourceFile = dyn2;
-            //dyn2 = dyn1["DataTargets"];
-            //InitialCatalogFile = dyn2;
-            //dyn2 = dyn1["UserID"];
-            //UserIDFile = dyn2;
-            //dyn2 = dyn1["Password"];
-            //PasswordFile = dyn2;
-
-
-            //sConnB = new SqlConnectionStringBuilder()
-            //{
-            //    DataSource = DataSourceFile,
-            //    InitialCatalog = InitialCatalogFile,
-            //    UserID = UserIDFile,
-            //    Password = PasswordFile
-            //};
         }
 
         private void Get_Stats(LogType ltype, int action)
@@ -245,21 +235,23 @@ namespace Covid19DataLogger
         }
         private void Get_GlobalStats(int action)
         {
-            if (action == 1)
-                return;
-            else if (action == 2)
-            {
-                if (File.Exists(Filepath_GlobalStats))
-                    return;
-            }
+            /* Obsolete? */
 
-            string jsonContentsStatsGlobal;
+            //if (action == 1)
+            //    return;
+            //else if (action == 2)
+            //{
+            //    if (File.Exists(Filepath_GlobalStats))
+            //        return;
+            //}
 
-            request = new RestRequest("global/");
-            response_Stats = client.Execute<RootObject_Stats>(request);
-            jsonContentsStatsGlobal = response_Stats.Content;
-            Console.WriteLine("Saving file: " + Filepath_GlobalStats);
-            File.WriteAllText(Filepath_GlobalStats, jsonContentsStatsGlobal);
+            //string jsonContentsStatsGlobal;
+
+            //request = new RestRequest("global/");
+            //response_Stats = client.Execute<RootObject_Stats>(request);
+            //jsonContentsStatsGlobal = response_Stats.Content;
+            //Console.WriteLine("Saving file: " + Filepath_GlobalStats);
+            //File.WriteAllText(Filepath_GlobalStats, jsonContentsStatsGlobal);
         }
 
         private void Save_GlobalStats()
@@ -336,30 +328,30 @@ namespace Covid19DataLogger
             //    IRestResponse response = client.Execute(request);
             //    string jsonContents = response.Content;
 
-            bool CheckFile = false;
+            bool NoReplace  = false;
             if (action == 1)
                 return;
             else if (action == 2)
             {
-                CheckFile = true;
+                NoReplace = true;
             }
 
             if (ltype == LogType.COUNTRY)
             {
-                Get_AreaStats(LogType.COUNTRY, CheckFile);
+                Get_AreaStats(LogType.COUNTRY, NoReplace);
             }
             else if (ltype == LogType.STATE)
             {
-                Get_AreaStats(LogType.STATE, CheckFile);
+                Get_AreaStats(LogType.STATE, NoReplace);
             }
             else if (ltype == LogType.COUNTRY_STATE)
             {
-                Get_AreaStats(LogType.COUNTRY, CheckFile);
-                Get_AreaStats(LogType.STATE, CheckFile);
+                Get_AreaStats(LogType.COUNTRY, NoReplace);
+                Get_AreaStats(LogType.STATE, NoReplace);
             }
         }
 
-        private void Get_AreaStats(LogType ltype, bool CheckFile)
+        private void Get_AreaStats(LogType ltype, bool NoReplace)
         {
             string Command;
             string Path;
@@ -380,6 +372,8 @@ namespace Covid19DataLogger
             if (ConnectionStrings.Count == 0)
                 return;
 
+            // We ask the FIRST DB which Alpha_2_codes (isoCodes) are currently selected as active countries or states
+            // (since all DBs should have the same settings)
             SqlConnection conn = new SqlConnection(ConnectionStrings[0].ConnectionString);
             conn.Open();
 
@@ -392,8 +386,10 @@ namespace Covid19DataLogger
                     while (isoCodes.Read())
                     {
                         string isoCode = isoCodes.GetString(0).Trim();
+                        // A unique filename per isoCode is created 
                         string jsonpath = Path + isoCode + ".json";
-                        if (CheckFile)
+                        // If NoReplace is true, skip and do not store this file 
+                        if (NoReplace)
                         {
                             if (File.Exists(jsonpath))
                                 continue;
@@ -404,14 +400,17 @@ namespace Covid19DataLogger
                         request.AddHeader("x-rapidapi-key", "22a317b985msh249bce487c7aa57p18909fjsn918b465d2071");
                         response_Stats = client.Execute<RootObject_Stats>(request);
                         jsonContents = response_Stats.Content;
+                        // Check if the response talks about number of requests being exceeded (((
                         int bad = jsonContents.IndexOf("exceeded");
                         if (bad > -1)
                         {
+                            // Have to wait until tomorrow to ask for more data (((
                             Console.WriteLine("Number of allowed daily reads exceeded. Gonna close for today...");
                             Environment.Exit(0);
                         }
                         Console.WriteLine("Saving file: " + jsonpath);
                         File.WriteAllText(jsonpath, jsonContents);
+                        // The country or state datafile was saved
                         Thread.Sleep(Delay);
                     }
                 }
@@ -421,6 +420,10 @@ namespace Covid19DataLogger
 
         private void Save_CountryOrStateStats(LogType ltype)
         {
+            // A hack was made here:
+            // Because of the new restriction of only 50 files per day, Get_AreaStats now stops the program if the limit is reached.
+            // This means that Save_CountryOrStateStats will only be called if the last data file was written. In that case, it is OK to
+            // delete all files. Note that this hack only works if we do not overwrite files in Get_AreaStats. Room for improvement...
             if (ltype == LogType.COUNTRY) 
             {
                 Save_AreaStats(Filepath_CountryStats);
